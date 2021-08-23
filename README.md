@@ -109,6 +109,15 @@ for providing some amazing resources!
 - #### [Network Fundamentals (youtube)](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
 - #### [Networking Basics 1 (By Night and Skelli)](https://docs.google.com/presentation/d/1jPbu3AQxx7IMalCrOkuRX7jh3PxukB8lrpzysqObWDw/edit#slide=id.p)
 - #### [Networking Basics 2 (By Night and Skelli)](https://docs.google.com/presentation/d/1V1TstCSK8mh5NjoSUzcxXjZzzy-uHOUG6dKKnH6KzWc/edit#slide=id.p)
+- #### [Computer Networking Course offered By Georgia Institute of Technology](https://www.udacity.com/course/computer-networking--ud436)[Free Course]
+- #### [Network Security Course offered By Georgia Institute of Technology](https://www.udacity.com/course/network-security--ud199)[Free Course]
+- #### [Networking For Web-Developers offered By Georgia Institute of Technology](https://www.udacity.com/course/networking-for-web-developers--ud256)[Free Course]
+
+---
+## Operating Systems
+- #### [Introduction To Operating Systems offered By Georgia Institute of Technology](https://www.udacity.com/course/introduction-to-operating-systems--ud923)[Free Course]
+- #### [Advanced Operating Systems course offered By Georgia Institute of Technology](https://www.udacity.com/course/advanced-operating-systems--ud189)[Free Course]
+- ####[GT - Refresher - Advanced OS by Georgia Institute of Technology](https://www.udacity.com/course/gt-refresher-advanced-os--ud098)[Free Course]
 
 ---
 
