@@ -147,6 +147,7 @@ If that link doesnt work please try this [link](https://bit.ly/2RqKjqp) or [this
 - #### [Windows Binary Course (with videos)](https://github.com/ashemery/exploitation-course)
 - #### [Exploit Development Learning resources](https://kalitut.com/exploit-development-resources/)
 - #### [Windows Exploit Development - SecuritySift](https://www.securitysift.com/windows-exploit-development-part-1-basics/)
+- #### [crackmes](https://crackmes.one)
 
 #### Thanks to Swanandx for the resources below. His [Website](https://swanandx.github.io/). His [Github](https://bit.ly/3hziKWH)
 
