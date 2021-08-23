@@ -38,12 +38,13 @@ for providing some amazing resources!
      - [Windows and Active Directory Hacking](#windows-and-active-directory-hacking)
 - [AV Evasion](#av-evasion)
 - [OSINT Challenges / CTFs](#osint-challenges--ctfs)
+- [Future Careers for the World's workforce](https://github.com/udacity)
 - [Certification Resources](#certification-resources)
      - [OSCP](#oscp)
      - [eCCPTv2](#eccptv2)
      - [eCPTXv2](#ecptxv2)
      - [Security+](#security)
-     - [Network+](#neytwork)
+     - [Network+](#network)
      
 - [Cheat Sheets](#cheat-sheets)
 
@@ -52,6 +53,10 @@ for providing some amazing resources!
  ## Intro To CyberSec
 
 - #### [CyberSec Courses for Beginners](https://hackerstop.org/hacking)
+- #### [Introduction to Cybersecurity](https://www.udacity.com/course/intro-to-cybersecurity-nanodegree--nd545)[New Arrival but are Paid Course]
+- #### [Ethical Hacker](https://www.udacity.com/course/ethical-hacker-nanodegree--nd350)[New Arrivals but paid]
+- #### [Security Engineer](https://www.udacity.com/course/security-engineer-nanodegree--nd698)[New Arrival but Paid Course]
+- #### [Security Analyst](https://www.udacity.com/course/security-analyst-nanodegree--nd324)[New Arrival but Paid Course]
 - #### [Akenofu Great Collection of Resources](https://akenofu.gitbook.io/hackallthethings/)
 - #### [FreeTraining DFIRDIVA Core Training CyberSec](https://freetraining.dfirdiva.com/category/free-training-categories/core-training/cybersecurity)
 - #### [CyberAces tutorials](https://tutorials.cyberaces.org/tutorials.html) Windows, Linux, Networking, PowerShell, Bash, Python
@@ -69,7 +74,6 @@ for providing some amazing resources!
      - #### [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
      - #### [Web Application Pentesting](https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL)
      - #### [Buffer OverFlow Series](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
-  
 ---
 
  ## Networking
@@ -109,12 +113,14 @@ for providing some amazing resources!
 - #### [Network Fundamentals (youtube)](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
 - #### [Networking Basics 1 (By Night and Skelli)](https://docs.google.com/presentation/d/1jPbu3AQxx7IMalCrOkuRX7jh3PxukB8lrpzysqObWDw/edit#slide=id.p)
 - #### [Networking Basics 2 (By Night and Skelli)](https://docs.google.com/presentation/d/1V1TstCSK8mh5NjoSUzcxXjZzzy-uHOUG6dKKnH6KzWc/edit#slide=id.p)
+
 - #### [Computer Networking Course offered By Georgia Institute of Technology](https://www.udacity.com/course/computer-networking--ud436)[Free Course]
 - #### [Network Security Course offered By Georgia Institute of Technology](https://www.udacity.com/course/network-security--ud199)[Free Course]
 - #### [Networking For Web-Developers offered By Georgia Institute of Technology](https://www.udacity.com/course/networking-for-web-developers--ud256)[Free Course]
 
 ---
 ## Operating Systems
+
 - #### [Introduction To Operating Systems offered By Georgia Institute of Technology](https://www.udacity.com/course/introduction-to-operating-systems--ud923)[Free Course]
 - #### [Advanced Operating Systems course offered By Georgia Institute of Technology](https://www.udacity.com/course/advanced-operating-systems--ud189)[Free Course]
 - #### [GT - Refresher - Advanced OS offered by Georgia Institute of Technology](https://www.udacity.com/course/gt-refresher-advanced-os--ud098)[Free Course]
@@ -264,6 +270,12 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
  	### Python 
 	 
 	 - #### [Violent Python3](https://samsclass.info/124/VP2020.htm)
+	
+	 - #### [Introduction To Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)[Free Course]
+	 - #### [Python Data Science Cheatsheet](https://www.udacity.com/blog/2021/08/python-data-science-cheat-sheet.html)
+	 - #### [Intermediate Python](https://www.udacity.com/course/intermediate-python-nanodegree--nd303)[New Arrival but Paid Course]
+	 - #### [Learning AI Programming with Python](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)[New Arrival but Paid Course]
+	 - #### [Learn Python For Data Science](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)[New Arrival but Paid Course]
 
 	### JavaScript
 	
@@ -367,6 +379,9 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 - #### [AV Evasion Mimikatz](https://www.youtube.com/watch?v=9pwMCHlNma4)
 
 ---
+## Future Careers for the World's workforce
+
+- #### [Future Careers for World's workforce](https://github.com/udacity)
 
 ## OSINT Challenges / CTF's
 
