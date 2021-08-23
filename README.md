@@ -54,7 +54,7 @@ for providing some amazing resources!
 
 - #### [CyberSec Courses for Beginners](https://hackerstop.org/hacking)
 - #### [Introduction to Cybersecurity](https://www.udacity.com/course/intro-to-cybersecurity-nanodegree--nd545)[New Arrival but are Paid Course]
-- #### [Ethical Hacker](https://www.udacity.com/course/ethical-hacker-nanodegree--nd350)[New Arrivals but paid]
+- #### [Ethical Hacker](https://www.udacity.com/course/ethical-hacker-nanodegree--nd350)[New Arrival but paid]
 - #### [Security Engineer](https://www.udacity.com/course/security-engineer-nanodegree--nd698)[New Arrival but Paid Course]
 - #### [Security Analyst](https://www.udacity.com/course/security-analyst-nanodegree--nd324)[New Arrival but Paid Course]
 - #### [Akenofu Great Collection of Resources](https://akenofu.gitbook.io/hackallthethings/)
