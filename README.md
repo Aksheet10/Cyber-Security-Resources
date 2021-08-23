@@ -8,7 +8,8 @@ Thanks to
 - [Dasith](https://github.com/dasithsv)
 - [Swanand](https://swanandx.github.io/)
 - [Robin](https://github.com/d4mianwayne)
-- [Mr.Nickapic](https://bit.ly/33QzpN5) or [Link2 for Mr.Nickapic](https://bit.ly/2RqKjq) 
+- [Mr.Nickapic](https://bit.ly/33QzpN5) or [Link2 for Mr.Nickapic](https://bit.ly/2RqKjq)
+- [Mr.RC](https://expy.bio/rc) 
 for providing some amazing resources!
 
 # My Resources 
