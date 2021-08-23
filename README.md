@@ -245,6 +245,7 @@ for providing some amazing resources!
 ## Docker
 
 - #### [The Docker Handbook (docker-handbook.farhan.dev)](https://docker-handbook.farhan.dev/)
+- #### [Docker For Pentesters - blg.ropnop](https://blog.ropnop.com/docker-for-pentesters/)
 
 ---
 
