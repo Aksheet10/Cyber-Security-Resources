@@ -117,7 +117,7 @@ for providing some amazing resources!
 ## Operating Systems
 - #### [Introduction To Operating Systems offered By Georgia Institute of Technology](https://www.udacity.com/course/introduction-to-operating-systems--ud923)[Free Course]
 - #### [Advanced Operating Systems course offered By Georgia Institute of Technology](https://www.udacity.com/course/advanced-operating-systems--ud189)[Free Course]
-- ####[GT - Refresher - Advanced OS by Georgia Institute of Technology](https://www.udacity.com/course/gt-refresher-advanced-os--ud098)[Free Course]
+- #### [GT - Refresher - Advanced OS offered by Georgia Institute of Technology](https://www.udacity.com/course/gt-refresher-advanced-os--ud098)[Free Course]
 
 ---
 
