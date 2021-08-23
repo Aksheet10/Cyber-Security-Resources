@@ -267,56 +267,57 @@ for providing some amazing resources!
 ## Programming
 Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md#c)
  - #### [Programming Books Free](https://books.goalkicker.com/)
- ### Python 
-	 
+ 
+ ### Python 	 
 - #### [Violent Python3](https://samsclass.info/124/VP2020.htm)
 	
 Note : The following are some links which will help you to begin with python programming to be a professional and the rest relies on Practice and small python   projects.
-	 - #### [Introduction To Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)[Free Course]
-	 - #### [Python Data Science Cheatsheet](https://www.udacity.com/blog/2021/08/python-data-science-cheat-sheet.html)
-	 - #### [Intermediate Python](https://www.udacity.com/course/intermediate-python-nanodegree--nd303)[New Arrival but Paid Course]
-	 - #### [Learning AI Programming with Python](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)[New Arrival but Paid Course]
-	 - #### [Learn Python For Data Science](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)[New Arrival but Paid Course]
+
+- #### [Introduction To Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)[Free Course]
+- #### [Python Data Science Cheatsheet](https://www.udacity.com/blog/2021/08/python-data-science-cheat-sheet.html)
+- #### [Intermediate Python](https://www.udacity.com/course/intermediate-python-nanodegree--nd303)[New Arrival but Paid Course]
+- #### [Learning AI Programming with Python](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)[New Arrival but Paid Course]
+- #### [Learn Python For Data Science](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)[New Arrival but Paid Course]
+
 Note : The following are some amazing projects for python for some more practice deeply in python programming.
-	 - #### [Python-Projects](https://github.com/topics/python-project)
-	 - #### [Python-Projects for cybersecurity](https://github.com/topics/cyber-security?l=python)
+- #### [Python-Projects](https://github.com/topics/python-project)
+- #### [Python-Projects for cybersecurity](https://github.com/topics/cyber-security?l=python)
 
 
 ### JavaScript
-	
-	- #### [The Modern JavaScript Tutorial](https://javascript.info/)
-	- #### [SoloLearn JavaScript course](https://www.sololearn.com/learning/1024)
+- #### [The Modern JavaScript Tutorial](https://javascript.info/)
+- #### [SoloLearn JavaScript course](https://www.sololearn.com/learning/1024)
 
-	### C++
-	 
-	 - #### [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - Catherine Gamboa (Udacity)
-	 - #### [C++ Programming Tutorial for Beginners (For Absolute Beginners)](https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK) 
-	 - #### [C++ Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoVZWSN-ze3VVtIfZfXwAGM)  by The Bad Tutorials
-	 - #### [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - Mike Dane - (freeCodeCamp)
-	 - #### [Google's C++ Course](https://developers.google.com/edu/c++/)
-	 - #### [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
-	 - #### Microsoft edX Courses:
-	    - #### [Advanced C++](https://www.edx.org/course/advanced-c-plus-plus-1)
-	    - #### [Intermediate C++](https://www.edx.org/course/intermediate-c-plus-plus-1)
-	    - #### [Introduction to C++](https://www.edx.org/course/introduction-c-plus-plus-1)
+### C++
+
+- #### [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - Catherine Gamboa (Udacity)
+- #### [C++ Programming Tutorial for Beginners (For Absolute Beginners)](https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK) 
+- #### [C++ Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoVZWSN-ze3VVtIfZfXwAGM)  by The Bad Tutorials
+- #### [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - Mike Dane - (freeCodeCamp)
+- #### [Google's C++ Course](https://developers.google.com/edu/c++/)
+- #### [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
+- #### Microsoft edX Courses:
+- #### [Advanced C++](https://www.edx.org/course/advanced-c-plus-plus-1)
+- #### [Intermediate C++](https://www.edx.org/course/intermediate-c-plus-plus-1)
+- #### [Introduction to C++](https://www.edx.org/course/introduction-c-plus-plus-1)
 
 ### C
 	
-	- #### [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
-	- #### [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane - (freeCodeCamp)
-	- #### [Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
-	- #### [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
+- #### [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
+- #### [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane - (freeCodeCamp)
+- #### [Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+- #### [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
 	
 ### C#
 	
-	- #### [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
-	- #### [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
-	- #### [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
-	- #### [Microsoft C# docs](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- #### [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
+- #### [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
+- #### [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
+- #### [Microsoft C# docs](https://docs.microsoft.com/en-us/dotnet/csharp/)
 	
 ### Bash
 	
-	- #### [Bash Programming guide](https://guide.bash.academy/)
+- #### [Bash Programming guide](https://guide.bash.academy/)
 
 --- 
 
