@@ -202,6 +202,7 @@ for providing some amazing resources!
 - #### [GTFOBins](https://gtfobins.github.io/) - Linux Service Escalation Cheat Sheet
 - #### [Wadcoms](https://wadcoms.github.io/) - Windows Service Escalation Cheat Sheet
 - #### [HackAllTheThings](https://akenofu.gitbook.io/hackallthethings/)
+- #### [The Read Team Handbook - KwcSec GitLab](https://kwcsec.gitbook.io/the-red-team-handbook/)
 - #### [FuzzSecurity Tutorial](http://www.fuzzysecurity.com/tutorials.html)
 - #### [Nickapic's notes](https://enotes.nickapic.com/)
 - #### [ExplainShell](https://explainshell.com/)
