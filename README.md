@@ -267,7 +267,7 @@ for providing some amazing resources!
 ## Programming
 Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md#c)
  - #### [Programming Books Free](https://books.goalkicker.com/)
- 	### Python 
+ ### Python 
 	 
 	 - #### [Violent Python3](https://samsclass.info/124/VP2020.htm)
 	
@@ -282,7 +282,7 @@ Note : The following are some amazing projects for python for some more practice
 	 - #### [Python-Projects](https://github.com/topics/python-project)
 	 - #### [Python-Projects for cybersecurity](https://github.com/topics/cyber-security?l=python)
 
-	### JavaScript
+### JavaScript
 	
 	- #### [The Modern JavaScript Tutorial](https://javascript.info/)
 	- #### [SoloLearn JavaScript course](https://www.sololearn.com/learning/1024)
@@ -300,21 +300,21 @@ Note : The following are some amazing projects for python for some more practice
 	    - #### [Intermediate C++](https://www.edx.org/course/intermediate-c-plus-plus-1)
 	    - #### [Introduction to C++](https://www.edx.org/course/introduction-c-plus-plus-1)
 
-	### C
+### C
 	
 	- #### [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
 	- #### [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane - (freeCodeCamp)
 	- #### [Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 	- #### [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
 	
-	### C#
+### C#
 	
 	- #### [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
 	- #### [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
 	- #### [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
 	- #### [Microsoft C# docs](https://docs.microsoft.com/en-us/dotnet/csharp/)
 	
-	### Bash
+### Bash
 	
 	- #### [Bash Programming guide](https://guide.bash.academy/)
 
