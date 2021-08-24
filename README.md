@@ -270,9 +270,9 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
  	### Python 
 	 
 	 - #### [Violent Python3](https://samsclass.info/124/VP2020.htm)
-	 - Note : The following are some links which will help you to begin with python programming to be a professional and the rest relies on Practice and small python   projects.
+	 Note : The following are some links which will help you to begin with python programming to be a professional and the rest relies on Practice and small python   projects.
 
-	- #### [Introduction To Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)[Free Course]
+	- #### [Introduction To Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) [Free Course]
 	- #### [Python Data Science Cheatsheet](https://www.udacity.com/blog/2021/08/python-data-science-cheat-sheet.html)
 	- #### [Python-Projects](https://github.com/topics/python-project)
 	- #### [Python-Projects for cybersecurity](https://github.com/topics/cyber-security?l=python)
