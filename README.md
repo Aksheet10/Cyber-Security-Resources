@@ -55,6 +55,7 @@ For providing some amazing resources!
  ## Intro To CyberSec
 
 - #### [CyberSec Courses for Beginners](https://hackerstop.org/hacking)
+- #### [Future Careers for the World's Workforce](https://github.com/udacity)
 - #### [Akenofu Great Collection of Resources](https://akenofu.gitbook.io/hackallthethings/)
 - #### [FreeTraining DFIRDIVA Core Training CyberSec](https://freetraining.dfirdiva.com/category/free-training-categories/core-training/cybersecurity)
 - #### [CyberAces tutorials](https://tutorials.cyberaces.org/tutorials.html) Windows, Linux, Networking, PowerShell, Bash, Python
