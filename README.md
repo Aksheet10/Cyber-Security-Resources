@@ -10,7 +10,9 @@ Thanks to
 - [Robin](https://github.com/d4mianwayne)
 - [Mr.Nickapic](https://bit.ly/33QzpN5) or [Link2 for Mr.Nickapic](https://bit.ly/2RqKjq)
 - [Mr.RC](https://expy.bio/rc) 
-for providing some amazing resources!
+- [Bornunique911](https://github.com/Legendary091)
+
+For providing some amazing resources!
 
 # My Resources 
 
@@ -18,6 +20,7 @@ for providing some amazing resources!
 
 - [Intro To CyberSec](#intro-to-cybersec)
 - [Networking](#networking)
+- [Operating Systems](#operating-systems)
 - [Web Pentesting](#web-pentesting)
 - [Binary Expolitation](#binary-exploitation)
 - [x86-64 Assembly](#x86-64-assembly)
@@ -43,7 +46,7 @@ for providing some amazing resources!
      - [eCCPTv2](#eccptv2)
      - [eCPTXv2](#ecptxv2)
      - [Security+](#security)
-     - [Network+](#neytwork)
+     - [Network+](#network)
      
 - [Cheat Sheets](#cheat-sheets)
 
@@ -109,6 +112,18 @@ for providing some amazing resources!
 - #### [Network Fundamentals (youtube)](https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8)
 - #### [Networking Basics 1 (By Night and Skelli)](https://docs.google.com/presentation/d/1jPbu3AQxx7IMalCrOkuRX7jh3PxukB8lrpzysqObWDw/edit#slide=id.p)
 - #### [Networking Basics 2 (By Night and Skelli)](https://docs.google.com/presentation/d/1V1TstCSK8mh5NjoSUzcxXjZzzy-uHOUG6dKKnH6KzWc/edit#slide=id.p)
+- #### [Computer Networking Course offered By Georgia Tech University](https://www.udacity.com/course/computer-networking--ud436)[Free Course]
+- #### [Network Security Course offered By Georgia Tech University](https://www.udacity.com/course/network-security--ud199)[Free Course]
+- #### [Networking For Web-Developers offered By Georgia Tech University](https://www.udacity.com/course/networking-for-web-developers--ud256)[Free Course]
+
+---
+
+## Operating Systems
+
+- #### [Introduction To Operating Systems offered By Georgia Tech University](https://www.udacity.com/course/introduction-to-operating-systems--ud923)[Free Course]
+- #### [Advanced Operating Systems course offered By Georgia Tech University](https://www.udacity.com/course/advanced-operating-systems--ud189)[Free Course]
+- #### [GT - Refresher - Advanced OS offered by Georgia Institute of Technology](https://www.udacity.com/course/gt-refresher-advanced-os--ud098)[Free Course] 
+
 
 ---
 
