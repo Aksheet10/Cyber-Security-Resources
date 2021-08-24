@@ -41,6 +41,7 @@ For providing some amazing resources!
      - [Windows and Active Directory Hacking](#windows-and-active-directory-hacking)
 - [AV Evasion](#av-evasion)
 - [OSINT Challenges / CTFs](#osint-challenges--ctfs)
+- [Future Careers for the World's workforce](https://github.com/udacity)
 - [Certification Resources](#certification-resources)
      - [OSCP](#oscp)
      - [eCCPTv2](#eccptv2)
@@ -55,6 +56,10 @@ For providing some amazing resources!
  ## Intro To CyberSec
 
 - #### [CyberSec Courses for Beginners](https://hackerstop.org/hacking)
+- #### [Introduction to Cybersecurity](https://www.udacity.com/course/intro-to-cybersecurity-nanodegree--nd545)[New Arrival but are Paid Course]
+- #### [Ethical Hacker](https://www.udacity.com/course/ethical-hacker-nanodegree--nd350)[New Arrival but paid]
+- #### [Security Engineer](https://www.udacity.com/course/security-engineer-nanodegree--nd698)[New Arrival but Paid Course]
+- #### [Security Analyst](https://www.udacity.com/course/security-analyst-nanodegree--nd324)[New Arrival but Paid Course]
 - #### [Akenofu Great Collection of Resources](https://akenofu.gitbook.io/hackallthethings/)
 - #### [FreeTraining DFIRDIVA Core Training CyberSec](https://freetraining.dfirdiva.com/category/free-training-categories/core-training/cybersecurity)
 - #### [CyberAces tutorials](https://tutorials.cyberaces.org/tutorials.html) Windows, Linux, Networking, PowerShell, Bash, Python
@@ -72,7 +77,6 @@ For providing some amazing resources!
      - #### [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj)
      - #### [Web Application Pentesting](https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL)
      - #### [Buffer OverFlow Series](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
-  
 ---
 
  ## Networking
@@ -124,6 +128,17 @@ For providing some amazing resources!
 - #### [Advanced Operating Systems course offered By Georgia Tech University](https://www.udacity.com/course/advanced-operating-systems--ud189)[Free Course]
 - #### [GT - Refresher - Advanced OS offered by Georgia Institute of Technology](https://www.udacity.com/course/gt-refresher-advanced-os--ud098)[Free Course] 
 
+
+- #### [Computer Networking Course offered By Georgia Institute of Technology](https://www.udacity.com/course/computer-networking--ud436)[Free Course]
+- #### [Network Security Course offered By Georgia Institute of Technology](https://www.udacity.com/course/network-security--ud199)[Free Course]
+- #### [Networking For Web-Developers offered By Georgia Institute of Technology](https://www.udacity.com/course/networking-for-web-developers--ud256)[Free Course]
+
+---
+## Operating Systems
+
+- #### [Introduction To Operating Systems offered By Georgia Institute of Technology](https://www.udacity.com/course/introduction-to-operating-systems--ud923)[Free Course]
+- #### [Advanced Operating Systems course offered By Georgia Institute of Technology](https://www.udacity.com/course/advanced-operating-systems--ud189)[Free Course]
+- #### [GT - Refresher - Advanced OS offered by Georgia Institute of Technology](https://www.udacity.com/course/gt-refresher-advanced-os--ud098)[Free Course]
 
 ---
 
@@ -267,45 +282,57 @@ For providing some amazing resources!
 ## Programming
 Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md#c)
  - #### [Programming Books Free](https://books.goalkicker.com/)
- 	### Python 
-	 
-	 - #### [Violent Python3](https://samsclass.info/124/VP2020.htm)
+ 
+ ### Python 	 
+- #### [Violent Python3](https://samsclass.info/124/VP2020.htm)
+	
+Note : The following are some links which will help you to begin with python programming to be a professional and the rest relies on Practice and small python   projects.
 
-	### JavaScript
-	
-	- #### [The Modern JavaScript Tutorial](https://javascript.info/)
-	- #### [SoloLearn JavaScript course](https://www.sololearn.com/learning/1024)
+- #### [Introduction To Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)[Free Course]
+- #### [Python Data Science Cheatsheet](https://www.udacity.com/blog/2021/08/python-data-science-cheat-sheet.html)
+- #### [Intermediate Python](https://www.udacity.com/course/intermediate-python-nanodegree--nd303)[New Arrival but Paid Course]
+- #### [Learning AI Programming with Python](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)[New Arrival but Paid Course]
+- #### [Learn Python For Data Science](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)[New Arrival but Paid Course]
 
-	### C++
-	 
-	 - #### [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - Catherine Gamboa (Udacity)
-	 - #### [C++ Programming Tutorial for Beginners (For Absolute Beginners)](https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK) 
-	 - #### [C++ Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoVZWSN-ze3VVtIfZfXwAGM)  by The Bad Tutorials
-	 - #### [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - Mike Dane - (freeCodeCamp)
-	 - #### [Google's C++ Course](https://developers.google.com/edu/c++/)
-	 - #### [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
-	 - #### Microsoft edX Courses:
-	    - #### [Advanced C++](https://www.edx.org/course/advanced-c-plus-plus-1)
-	    - #### [Intermediate C++](https://www.edx.org/course/intermediate-c-plus-plus-1)
-	    - #### [Introduction to C++](https://www.edx.org/course/introduction-c-plus-plus-1)
+Note : The following are some amazing projects for python for some more practice deeply in python programming.
+- #### [Python-Projects](https://github.com/topics/python-project)
+- #### [Python-Projects for cybersecurity](https://github.com/topics/cyber-security?l=python)
 
-	### C
+
+### JavaScript
+- #### [The Modern JavaScript Tutorial](https://javascript.info/)
+- #### [SoloLearn JavaScript course](https://www.sololearn.com/learning/1024)
+
+### C++
+
+- #### [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - Catherine Gamboa (Udacity)
+- #### [C++ Programming Tutorial for Beginners (For Absolute Beginners)](https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK) 
+- #### [C++ Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoVZWSN-ze3VVtIfZfXwAGM)  by The Bad Tutorials
+- #### [C++ Tutorial for Beginners - Full Course](https://www.youtube.com/watch?v=vLnPwxZdW4Y) - Mike Dane - (freeCodeCamp)
+- #### [Google's C++ Course](https://developers.google.com/edu/c++/)
+- #### [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
+- #### Microsoft edX Courses:
+- #### [Advanced C++](https://www.edx.org/course/advanced-c-plus-plus-1)
+- #### [Intermediate C++](https://www.edx.org/course/intermediate-c-plus-plus-1)
+- #### [Introduction to C++](https://www.edx.org/course/introduction-c-plus-plus-1)
+
+### C
 	
-	- #### [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
-	- #### [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane - (freeCodeCamp)
-	- #### [Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
-	- #### [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
+- #### [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
+- #### [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane - (freeCodeCamp)
+- #### [Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+- #### [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
 	
-	### C#
+### C#
 	
-	- #### [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
-	- #### [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
-	- #### [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
-	- #### [Microsoft C# docs](https://docs.microsoft.com/en-us/dotnet/csharp/)
+- #### [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
+- #### [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
+- #### [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
+- #### [Microsoft C# docs](https://docs.microsoft.com/en-us/dotnet/csharp/)
 	
-	### Bash
+### Bash
 	
-	- #### [Bash Programming guide](https://guide.bash.academy/)
+- #### [Bash Programming guide](https://guide.bash.academy/)
 
 --- 
 
@@ -373,6 +400,9 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 - #### [AV Evasion Mimikatz](https://www.youtube.com/watch?v=9pwMCHlNma4)
 
 ---
+## Future Careers for the World's workforce
+
+- #### [Future Careers for World's workforce](https://github.com/udacity)
 
 ## OSINT Challenges / CTF's
 
