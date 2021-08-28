@@ -412,6 +412,7 @@ Thank's to [Jayy](https://github.com/Jayy001) for these resources
 Resources for eCCPTv2, OSCP and many more
 ### OSCP
 - #### [HackerStop OSCP resources](https://hackerstop.org/oscp)
+- #### [BurntMyBagel OSCP-Prep Resources](https://github.com/burntmybagel/OSCP-Prep)
 - #### [Tips for OSCP](https://www.reddit.com/r/netsecstudents/comments/5fwc1z/failed_the_oscp_any_tips_for_the_next_attempt/danovo5/)
 - #### [BackDoorShell OSCP Usefull Links](https://backdoorshell.gitbooks.io/oscp-useful-links/content/)
 - #### [0x4D31 OSCP resources](https://github.com/0x4D31/awesome-oscp)
