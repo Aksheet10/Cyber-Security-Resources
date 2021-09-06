@@ -321,7 +321,8 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
 
    ### PowerShell 
-  
+   
+   - #### [PowerShell for Pentesters by The Mayor](https://www.youtube.com/playlist?list=PLJQHPJLj_SQatUsJy3O4k-VQlllquDmDr)
    - #### [PowerShell 101 by Mike F Robbins](https://leanpub.com/powershell101)
    - #### [PowerShell and DSC Team Channel (YouTube)](https://www.youtube.com/channel/UCMhQH-yJlr4_XHkwNunfMog)
    - #### [HackAllTheThings PowerShell Cheat Sheet](https://akenofu.gitbook.io/hackallthethings/active-directory/powershell-one-liners)
