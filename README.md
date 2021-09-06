@@ -255,6 +255,7 @@ For providing some amazing resources!
 - #### [A Red Teamer's guide to Pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
 - #### [Pivoting With Chisel](https://ap3x.github.io/posts/pivoting-with-chisel/)
 - #### [Nessus over SOCKS over Metasploit](https://digi.ninja/blog/nessus_over_sock4a_over_msf.php)
+- #### [SOCKS Proxy Lab Setup by Kiwids](https://kiwids.notion.site/SOCKS-Proxy-Lab-Setup-07112c68fcc14aa1917505dcd6eeb35b)- Notion
 
 ---
 
