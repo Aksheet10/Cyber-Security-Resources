@@ -10,7 +10,7 @@ Thanks to
 - [Robin](https://github.com/d4mianwayne)
 - [Mr.Nickapic](https://bit.ly/33QzpN5) or [Link2 for Mr.Nickapic](https://github.com/nickapic/Cyber-Learning-Resources)
 - [Mr.RC](https://expy.bio/rc) 
-- [Bornunique911](https://github.com/Legendary091)
+- [Bornunique911](https://github.com/Bornunique911)
 - [Kiwids](https://kiwids.me)
 - [MamaMouse](https://keybase.io/msmouse/)
 
