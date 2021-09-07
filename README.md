@@ -11,6 +11,8 @@ Thanks to
 - [Mr.Nickapic](https://bit.ly/33QzpN5) or [Link2 for Mr.Nickapic](https://github.com/nickapic/Cyber-Learning-Resources)
 - [Mr.RC](https://expy.bio/rc) 
 - [Bornunique911](https://github.com/Legendary091)
+- [Kiwids](https://kiwids.me)
+- [MamaMouse](https://keybase.io/msmouse/)
 
 For providing some amazing resources!
 
@@ -255,7 +257,7 @@ For providing some amazing resources!
 - #### [A Red Teamer's guide to Pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
 - #### [Pivoting With Chisel](https://ap3x.github.io/posts/pivoting-with-chisel/)
 - #### [Nessus over SOCKS over Metasploit](https://digi.ninja/blog/nessus_over_sock4a_over_msf.php)
-- #### [SOCKS Proxy Lab Setup by Kiwids](https://kiwids.notion.site/SOCKS-Proxy-Lab-Setup-07112c68fcc14aa1917505dcd6eeb35b)- Notion
+- #### [SOCKS Proxy Lab Setup](https://kiwids.notion.site/SOCKS-Proxy-Lab-Setup-07112c68fcc14aa1917505dcd6eeb35b) - [Kiwids](kiwids.me)Notion
 
 ---
 
@@ -386,9 +388,10 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
 ## OSINT Challenges / CTF's
 
-Thank's to [Jayy](https://github.com/Jayy001) for these resources
+Thank's to [Jayy](https://github.com/Jayy001) and [MamaMouse](https://keybase.io/msmouse/) for a lot of these resources
 
 - #### [THECYBERINST OSINT challenge](https://courses.thecyberinst.org/courses/osint-challenge)
+- #### [OSINT Framework MindMap](https://osintframework.com)
 - #### [Sourcing game 1](https://sourcing.games/game-1/)
 - #### [Twitter Quittime](https://twitter.com/quiztime)
 - #### [CyberINST course osintmini](https://courses.thecyberinst.org/courses/osintmini)
