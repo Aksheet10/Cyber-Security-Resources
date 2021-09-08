@@ -330,8 +330,8 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
    ### PowerShell 
    
-   - #### [PowerShell for Pentesters by The Mayor](https://www.youtube.com/playlist?list=PLJQHPJLj_SQatUsJy3O4k-VQlllquDmDr)
-   - #### [Powershell for Pentesters by PenTester Academy](https://www.youtube.com/playlist?list=PLzKIBgD3ky20006eJjHXvx9MIYM7nzQlp)
+   - #### [PowerShell for Pentesters by The Mayor](https://www.youtube.com/playlist?list=PLJQHPJLj_SQatUsJy3O4k-VQlllquDmDr) - YouTube
+   - #### [Powershell for Pentesters by PenTester Academy](https://www.youtube.com/playlist?list=PLzKIBgD3ky20006eJjHXvx9MIYM7nzQlp) - YouTube
    - #### [PowerShell 101 by Mike F Robbins](https://leanpub.com/powershell101)
    - #### [PowerShell and DSC Team Channel (YouTube)](https://www.youtube.com/channel/UCMhQH-yJlr4_XHkwNunfMog)
    - #### [HackAllTheThings PowerShell Cheat Sheet](https://akenofu.gitbook.io/hackallthethings/active-directory/powershell-one-liners)
@@ -423,6 +423,7 @@ Thank's to [Jayy](https://github.com/Jayy001) and [MamaMouse](https://keybase.io
 Resources for eCCPTv2, OSCP and many more
 ### OSCP
 - #### [HackerStop OSCP resources](https://hackerstop.org/oscp)
+- #### [OSCP - Linux Privilege Escalation Methodology](https://www.youtube.com/watch?v=VpNaPAh93vE) - Conda YouTube
 - #### [TJNull's OSCP Prep Machines](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159)
 - #### [BurntMyBagel OSCP-Prep Resources](https://github.com/burntmybagel/OSCP-Prep)
 - #### [Tips for OSCP](https://www.reddit.com/r/netsecstudents/comments/5fwc1z/failed_the_oscp_any_tips_for_the_next_attempt/danovo5/)
