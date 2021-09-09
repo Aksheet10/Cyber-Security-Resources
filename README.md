@@ -426,7 +426,10 @@ Thank's to [Jayy](https://github.com/Jayy001) and [MamaMouse](https://keybase.io
 Resources for eCCPTv2, OSCP and many more
 ### OSCP
 - #### [HackerStop OSCP resources](https://hackerstop.org/oscp)
-- #### [OSCP - Linux Privilege Escalation Methodology](https://www.youtube.com/watch?v=VpNaPAh93vE) - Conda YouTube
+- #### [Condo OSCP Prep Videos](https://www.youtube.com/playlist?list=PLDrNMcTNhhYqZU1ySROli7Oc08mxe1tZR)
+    - #### [OSCP - OSCP - Windows Privilege Escalation Methodology](https://www.youtube.com/watch?v=Qfy-traJwIs&list=PLDrNMcTNhhYqZU1ySROli7Oc08mxe1tZR) - Condo YouTube
+    - #### [OSCP - Linux Privilege Escalation Methodology](https://www.youtube.com/watch?v=VpNaPAh93vE) - Conda YouTube
+- #### [OSCP Priv Esc MindMap](https://github.com/C0nd4/OSCP-Priv-Esc) - C0nd4
 - #### [TJNull's OSCP Prep Machines](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159)
 - #### [BurntMyBagel OSCP-Prep Resources](https://github.com/burntmybagel/OSCP-Prep)
 - #### [Tips for OSCP](https://www.reddit.com/r/netsecstudents/comments/5fwc1z/failed_the_oscp_any_tips_for_the_next_attempt/danovo5/)
