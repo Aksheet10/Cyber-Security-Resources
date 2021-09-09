@@ -133,6 +133,7 @@ For providing some amazing resources!
 
 ## Web-Pentesting
 
+- #### [Xapax Attacking Web Applications - OAuth Attack](https://xapax.github.io/security/#attacking_web_applications/oauth_attacks/) (Many more topics in the index)
 - #### [5 Most Effective Ways of Learning in Bug Bounty](https://infosecwriteups.com/5-most-effective-ways-of-learning-in-bug-bounty-afaf097f4df1)
 - #### [HackAllTheThings Web-App Articles](https://akenofu.gitbook.io/hackallthethings/web-applications)
 - #### [Web Hacking 101 PwnFuntion](https://www.youtube.com/playlist?list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ)
@@ -222,7 +223,7 @@ For providing some amazing resources!
 - #### [GTFOBins](https://gtfobins.github.io/) - Linux Service Escalation Cheat Sheet
 - #### [Wadcoms](https://wadcoms.github.io/) - Windows Service Escalation Cheat Sheet
 - #### [HackAllTheThings](https://akenofu.gitbook.io/hackallthethings/)
-- #### [A brilliant CheatSheet and Explanations for various topics ](https://xapax.github.io/security) - Xapax Github
+- #### [A brilliant CheatSheet and Explanations for various topics](https://xapax.github.io/security) - Xapax Github
 - #### [The Read Team Handbook - KwcSec GitLab](https://kwcsec.gitbook.io/the-red-team-handbook/)
 - #### [FuzzSecurity Tutorial](http://www.fuzzysecurity.com/tutorials.html)
 - #### [Nickapic's notes](https://enotes.nickapic.com/)
