@@ -28,6 +28,7 @@ For providing some amazing resources!
 - [Binary Expolitation](#binary-exploitation)
 - [x86-64 Assembly](#x86-64-assembly)
 - [Android Pentesting](#android-pentesting)
+- [Evasion And Malware](#evasion-and-malware)
 - [Forensics](#forensics)
 - [Amazing Training Sites](#amazing-sites)
 - [Pivoting Guides](#pivoting-guides)
@@ -42,7 +43,6 @@ For providing some amazing resources!
 - [Windows and Active Directory](#powershell-windows-and-active-directory-hacking)
      - [Powershell](#powershell)
      - [Windows and Active Directory Hacking](#windows-and-active-directory-hacking)
-- [AV Evasion](#av-evasion)
 - [OSINT Challenges / CTFs](#osint-challenges--ctfs)
 - [Certification Resources](#certification-resources)
      - [OSCP](#oscp)
@@ -194,7 +194,7 @@ For providing some amazing resources!
 
 ---
 
-##  x86-64 Assembly
+## x86-64 Assembly
 
 - #### [IntroX86](https://www.opensecuritytraining.info/IntroX86.html)
 - #### [ARM Assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
@@ -210,6 +210,18 @@ For providing some amazing resources!
 
 ---
 
+## Evasion And Malware
+
+- #### [GhostSec420 Bypass AV Dynamics](https://github.com/ghostsec420/SCPA/blob/main/BypassAVDynamics.pdf)
+- #### [NiicConsulting Simple CMD Reverse Shell](https://niiconsulting.com/checkmate/2018/11/malware-on-steroids-part-1-simple-cmd-reverse-shell/)
+- #### [IRED Team](https://www.ired.team/)
+- #### [0xHop Blog on AV Evasion part 1](https://0xhop.github.io/evasion/2021/04/19/evasion-pt1/)
+- #### [0xHop Blog on AV Evasion part 2](https://0xhop.github.io/evasion/2021/05/26/evasion-pt2/)
+- #### [AV Evasion Mimikatz](https://www.youtube.com/watch?v=9pwMCHlNma4)
+
+
+---
+
 ## Forensics
 
 - #### [Introduction to Windows Forensics](https://www.youtube.com/playlist?list=PLlv3b9B16ZadqDQH0lTRO4kqn2P1g9Mve)
@@ -220,6 +232,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [HighOnCoffee Blogs](https://highon.coffee/blog/)
+- #### [GhostSec420 Pentest Toolkits and Resources](https://github.com/ghostsec420/SCPA/blob/main/Pentest_Toolkits_and_Resources.md)
 - #### [GTFOBins](https://gtfobins.github.io/) - Linux Service Escalation Cheat Sheet
 - #### [Wadcoms](https://wadcoms.github.io/) - Windows Service Escalation Cheat Sheet
 - #### [HackAllTheThings](https://akenofu.gitbook.io/hackallthethings/)
@@ -383,14 +396,6 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    - #### [Post Exploitation](http://www.pentest-standard.org/index.php/Post_Exploitation)
    - #### [Unofficial Guide to Mimikatz & Command Reference](https://adsecurity.org/?page_id=1821)
    - #### [Active Directory Cookbook 4th Edition](https://www.oreilly.com/library/view/active-directory-cookbook/9781449361419/)
-
----
-
-## AV Evasion
-
-- #### [0xHop Blog on AV Evasion part 1](https://0xhop.github.io/evasion/2021/04/19/evasion-pt1/)
-- #### [0xHop Blog on AV Evasion part 2](https://0xhop.github.io/evasion/2021/05/26/evasion-pt2/)
-- #### [AV Evasion Mimikatz](https://www.youtube.com/watch?v=9pwMCHlNma4)
 
 ---
 
