@@ -363,6 +363,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
    ### Windows and Active Directory Hacking
   
+   - #### [Pentesting AD MindMap](https://www.xmind.net/m/5dypm8/) - M4yFly
    - #### [Red Team Essentials Hexachodanu](https://github.com/hexachordanu/Red-Team-Essentials/blob/master/Red-team.md)
    - #### [FuzzSecurity Windows Privilege Escalation](http://www.fuzzysecurity.com/tutorials/16.html)
    - #### [Top 16 Active Directory Vulnerabilites](https://www.infosecmatter.com/top-16-active-directory-vulnerabilities/)
@@ -457,7 +458,8 @@ Resources for eCCPTv2, OSCP and many more
 ## Cheat Sheets
 
 - Windows and AD Cheat Sheets
-
+   
+   - #### [Pentesting AD MindMap](https://www.xmind.net/m/5dypm8/) - M4yFly
    - #### [Windows Host Command Cheat Sheet by TheMayor](https://www.themayor.tech/341cf3705cc64752b466046584de45b8?v=4f2173ad749249b293a89ab5391805ec)
    - #### [AD Exploitation Cheat Sheet by SickB0y1337](https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet)
    - #### [RedTeam_CheatSheet.ps1 by Jivoi](https://gist.github.com/jivoi/c354eaaf3019352ce32522f916c03d70)
