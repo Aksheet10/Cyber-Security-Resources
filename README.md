@@ -266,6 +266,7 @@ For providing some amazing resources!
 
 (These can also be very helpfull for eCCPTv2)
 
+- #### [Offensive Security Guide to SSH Tunnels and Proxies](https://posts.specterops.io/offensive-security-guide-to-ssh-tunnels-and-proxies-b525cbd4d4c6) - Specterops
 - #### [Wreath from TryHackMe](https://tryhackme.com/jr/wreath)
 - #### [Explore Hidden Networks with Double Pivoting](https://pentest.blog/explore-hidden-networks-with-double-pivoting/) - Pentest.blog
 - #### [BackDoorShell blog for Pivoting](https://backdoorshell.gitbooks.io/oscp-useful-links/content/pivoting.html)
