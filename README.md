@@ -133,6 +133,7 @@ For providing some amazing resources!
 
 ## Web-Pentesting
 
+- ### [RCE via LFI Log Poisoning](https://shahjerry33.medium.com/rce-via-lfi-log-poisoning-the-death-potion-c0831cebc16d) - ShahJerry33 Medium
 - #### [Xapax Attacking Web Applications - OAuth Attack](https://xapax.github.io/security/#attacking_web_applications/oauth_attacks/) (Many more topics in the index)
 - #### [5 Most Effective Ways of Learning in Bug Bounty](https://infosecwriteups.com/5-most-effective-ways-of-learning-in-bug-bounty-afaf097f4df1)
 - #### [HackAllTheThings Web-App Articles](https://akenofu.gitbook.io/hackallthethings/web-applications)
