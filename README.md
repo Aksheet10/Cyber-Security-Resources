@@ -213,6 +213,7 @@ For providing some amazing resources!
 
 ## Evasion And Malware
 
+- #### [Implane Development and Defense Evasion Part 1 - File Basics](https://lsteelo.medium.com/implant-development-and-defense-evasion-part-1-file-basics-532eb258b6bf) Lsteelo Medium
 - #### [GhostSec420 Bypass AV Dynamics](https://github.com/ghostsec420/SCPA/blob/main/BypassAVDynamics.pdf)
 - #### [NiicConsulting Simple CMD Reverse Shell](https://niiconsulting.com/checkmate/2018/11/malware-on-steroids-part-1-simple-cmd-reverse-shell/)
 - #### [IRED Team](https://www.ired.team/)
@@ -233,6 +234,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [HighOnCoffee Blogs](https://highon.coffee/blog/)
+- #### [The Red Team HandBook](https://kwcsec.gitbook.io/the-red-team-handbook/) - LwSec Gitbook
 - #### [GhostSec420 Pentest Toolkits and Resources](https://github.com/ghostsec420/SCPA/blob/main/Pentest_Toolkits_and_Resources.md)
 - #### [GTFOBins](https://gtfobins.github.io/) - Linux Service Escalation Cheat Sheet
 - #### [Wadcoms](https://wadcoms.github.io/) - Windows Service Escalation Cheat Sheet
@@ -267,6 +269,7 @@ For providing some amazing resources!
 
 (These can also be very helpfull for eCCPTv2)
 
+- #### [Read Team Handbook Pivoting](https://kwcsec.gitbook.io/the-red-team-handbook/techniques/defense-evasion/minimization/pivoting) - KwcSec
 - #### [Offensive Security Guide to SSH Tunnels and Proxies](https://posts.specterops.io/offensive-security-guide-to-ssh-tunnels-and-proxies-b525cbd4d4c6) - Specterops
 - #### [Wreath from TryHackMe](https://tryhackme.com/jr/wreath)
 - #### [Explore Hidden Networks with Double Pivoting](https://pentest.blog/explore-hidden-networks-with-double-pivoting/) - Pentest.blog
