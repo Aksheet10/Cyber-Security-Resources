@@ -366,6 +366,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    ### Windows and Active Directory Hacking
   
    - #### [Pentesting AD MindMap](https://www.xmind.net/m/5dypm8/) - M4yFly
+   - #### [TarlogicSecurity Kerberos Cheat Sheet](https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a)
    - #### [Red Team Essentials Hexachodanu](https://github.com/hexachordanu/Red-Team-Essentials/blob/master/Red-team.md)
    - #### [FuzzSecurity Windows Privilege Escalation](http://www.fuzzysecurity.com/tutorials/16.html)
    - #### [Top 16 Active Directory Vulnerabilites](https://www.infosecmatter.com/top-16-active-directory-vulnerabilities/)
