@@ -46,6 +46,7 @@ For providing some amazing resources!
 - [OSINT Challenges / CTFs](#osint-challenges--ctfs)
 - [Certification Resources](#certification-resources)
      - [OSCP](#oscp)
+     - [OSEP](#osep)
      - [eCCPTv2](#eccptv2)
      - [eCPTXv2](#ecptxv2)
      - [Security+](#security)
@@ -213,6 +214,11 @@ For providing some amazing resources!
 
 ## Evasion And Malware
 
+- #### [Bypass AV Dynamics](https://blog.sevagas.com/IMG/pdf/BypassAVDynamics.pdf) -  blog.Sevages
+- #### [Hack to Basics – Adapting Exploit Frameworks to Evade Microsoft ATP](https://github.com/BC-SECURITY/DEFCON27) - BC-SECURITY Github
+- #### [Decon27 C# Workshop](https://github.com/mvelazc0/defcon27_csharp_workshop) - Mvelazc0 Github
+- #### [Weaponising C# Fundamentals](https://github.com/fozavci/WeaponisingCSharp-Fundamentals/) - Fozavci
+
 - #### [Implane Development and Defense Evasion Part 1 - File Basics](https://lsteelo.medium.com/implant-development-and-defense-evasion-part-1-file-basics-532eb258b6bf) Lsteelo Medium
 - #### [GhostSec420 Bypass AV Dynamics](https://github.com/ghostsec420/SCPA/blob/main/BypassAVDynamics.pdf)
 - #### [NiicConsulting Simple CMD Reverse Shell](https://niiconsulting.com/checkmate/2018/11/malware-on-steroids-part-1-simple-cmd-reverse-shell/)
@@ -332,7 +338,9 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 	
 	### C#
 	
+	- #### [Decon27 C# Workshop](https://github.com/mvelazc0/defcon27_csharp_workshop) - Mvelazc0 Github
 	- #### [Installing DotNet and running C# codes on Linux](https://www.c-sharpcorner.com/article/hello-world-net-core-on-linux/)
+	- #### [Weaponising C# Fundamentals](https://github.com/fozavci/WeaponisingCSharp-Fundamentals/) - Fozavci
 	- #### [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
 	- #### [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane - (freeCodeCamp)
 	- #### [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
@@ -449,6 +457,9 @@ Resources for eCCPTv2, OSCP and many more
 - #### [0x4D31 OSCP resources](https://github.com/0x4D31/awesome-oscp)
 - #### [The-Lynx-Team OSCP resources](https://github.com/The-Lynx-Team/OSCP)
 - #### [TJNull OSCP Prep](https://www.netsecfocus.com/oscp/2021/05/06/The_Journey_to_Try_Harder-_TJnull-s_Preparation_Guide_for_PEN-200_PWK_OSCP_2.0.html)
+### OSEP
+- #### [Nullg0re OSEP Experience](https://nullg0re.com/?p=113)
+- #### [OSEP Helful Resources](https://github.com/nullg0re/Experienced-Pentester-OSEP) - Nullg0re
 ### eCCPTv2
 - #### [Great eCCPTv2 External Resources](https://community.ine.com/t/great-ptp-ecpptv2-external-resources/618)
 - #### [IamKsNoob Mind Maps and Notes](https://github.com/IamKsNoob/PTPv5)
