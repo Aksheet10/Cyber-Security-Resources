@@ -47,7 +47,7 @@ For providing some amazing resources!
 - [Certification Resources](#certification-resources)
      - [OSCP](#oscp)
      - [OSEP](#osep)
-     - [eCCPTv2](#eccptv2)
+     - [eCPPTv2](#ecpptv2)
      - [eCPTXv2](#ecptxv2)
      - [Security+](#security)
      - [Network+](#network)
@@ -258,7 +258,7 @@ For providing some amazing resources!
 - #### [TryHackMe](https://tryhackme.com)
 - #### [HackTheBox](https://hackthebox.eu)
 - #### [Active Directory Security](https://adsecurity.org/)
-- #### [Great eCCPTv2 External Resources](https://community.ine.com/t/great-ptp-ecpptv2-external-resources/618)
+- #### [Great eCPPTv2 External Resources](https://community.ine.com/t/great-ptp-ecpptv2-external-resources/618)
 - #### [DFIR Madness](https://dfirmadness.com/)
 - #### [HackerStop](https://hackerstop.org/)
 - #### [Cisco's Skillsforall](https://skillsforall.com/)
@@ -277,7 +277,7 @@ For providing some amazing resources!
 
 ## Pivoting Guides
 
-(These can also be very helpfull for eCCPTv2)
+(These can also be very helpfull for eCPPTv2)
 
 - #### [Read Team Handbook Pivoting](https://kwcsec.gitbook.io/the-red-team-handbook/techniques/defense-evasion/minimization/pivoting) - KwcSec
 - #### [Offensive Security Guide to SSH Tunnels and Proxies](https://posts.specterops.io/offensive-security-guide-to-ssh-tunnels-and-proxies-b525cbd4d4c6) - Specterops
@@ -447,7 +447,7 @@ Thank's to [Jayy](https://github.com/Jayy001) and [MamaMouse](https://keybase.io
 ---
 
 ## Certification Resources
-Resources for eCCPTv2, OSCP and many more
+Resources for eCPPTv2, OSCP and many more
 - #### [OSCE3 (OSWE, OSEP, OSED) Complete Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide) - CyberSecurityUP Github
 ### OSCP
 - #### [HackerStop OSCP resources](https://hackerstop.org/oscp)
@@ -470,8 +470,8 @@ Resources for eCCPTv2, OSCP and many more
 - #### [Pen300 OSEP Prep](https://github.com/deletehead/pen_300_osep_prep) - Deletehead github
 - #### [Offensive Security Evasion](https://drive.google.com/file/d/1znezUNtghkcFhwfKMZmeyNrtdbwBXRsz/view?usp=sharing) - Joas Antino
 - #### [Awesome-Red-Team-Operations](https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations)
-### eCCPTv2
-- #### [Great eCCPTv2 External Resources](https://community.ine.com/t/great-ptp-ecpptv2-external-resources/618)
+### eCPPTv2
+- #### [Great eCPPTv2 External Resources](https://community.ine.com/t/great-ptp-ecpptv2-external-resources/618)
 - #### [IamKsNoob Mind Maps and Notes](https://github.com/IamKsNoob/PTPv5)
 - #### [Guides for Pivoting](#pivoting-guides)
 #### eCPTXv2
