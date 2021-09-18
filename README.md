@@ -242,6 +242,7 @@ For providing some amazing resources!
 
 ## Amazing Sites
 
+- #### [OSCE3 (OSEP, OSCP, OSED) Complete Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide) - CyberSecurityUP Github
 - #### [HighOnCoffee Blogs](https://highon.coffee/blog/)
 - #### [The Red Team HandBook](https://kwcsec.gitbook.io/the-red-team-handbook/) - LwSec Gitbook
 - #### [GhostSec420 Pentest Toolkits and Resources](https://github.com/ghostsec420/SCPA/blob/main/Pentest_Toolkits_and_Resources.md)
