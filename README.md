@@ -475,6 +475,7 @@ Resources for eCPPTv2, OSCP and many more
 - #### [Great eCPPTv2 External Resources](https://community.ine.com/t/great-ptp-ecpptv2-external-resources/618)
 - #### [IamKsNoob Mind Maps and Notes](https://github.com/IamKsNoob/PTPv5)
 - #### [Guides for Pivoting](#pivoting-guides)
+- #### [Ferx Githbook ECPPTv2 Notes](https://ferx.gitbook.io/wiki/ecpptv2/system-security)
 #### eCPTXv2
 - #### [Great eCPTXv2 External Resources](https://community.ine.com/t/great-ptx-ecptxv2-external-resources/614)
 ### Security+
