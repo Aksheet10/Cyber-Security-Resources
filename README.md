@@ -279,6 +279,7 @@ For providing some amazing resources!
 
 (These can also be very helpfull for eCPPTv2)
 
+- #### [State of the Art of Network Pivoting](https://blog.raw.pm/en/state-of-the-art-of-network-pivoting-in-2019/)
 - #### [Read Team Handbook Pivoting](https://kwcsec.gitbook.io/the-red-team-handbook/techniques/defense-evasion/minimization/pivoting) - KwcSec
 - #### [Offensive Security Guide to SSH Tunnels and Proxies](https://posts.specterops.io/offensive-security-guide-to-ssh-tunnels-and-proxies-b525cbd4d4c6) - Specterops
 - #### [Wreath from TryHackMe](https://tryhackme.com/jr/wreath)
