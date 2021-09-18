@@ -214,6 +214,9 @@ For providing some amazing resources!
 
 ## Evasion And Malware
 
+- #### [Art of Anti Detection 1 – Introduction to AV & Detection Techniques](https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/) - Pentest.blog
+- #### [Art of Anti Detection 2 - PE Backdoor Manufacturing](https://pentest.blog/art-of-anti-detection-2-pe-backdoor-manufacturing/)) - Pentest.blog
+- #### [Write a Crypter in any Language](https://netsec.expert/posts/write-a-crypter-in-any-language/) - Netsec.expert
 - #### [Bypass AV Dynamics](https://blog.sevagas.com/IMG/pdf/BypassAVDynamics.pdf) -  blog.Sevages
 - #### [Hack to Basics – Adapting Exploit Frameworks to Evade Microsoft ATP](https://github.com/BC-SECURITY/DEFCON27) - BC-SECURITY Github
 - #### [Decon27 C# Workshop](https://github.com/mvelazc0/defcon27_csharp_workshop) - Mvelazc0 Github
@@ -444,6 +447,7 @@ Thank's to [Jayy](https://github.com/Jayy001) and [MamaMouse](https://keybase.io
 
 ## Certification Resources
 Resources for eCCPTv2, OSCP and many more
+- #### [OSCE3 (OSEP, OSCP, OSED) Complete Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide) - CyberSecurityUP Github
 ### OSCP
 - #### [HackerStop OSCP resources](https://hackerstop.org/oscp)
 - #### [Condo OSCP Prep Videos](https://www.youtube.com/playlist?list=PLDrNMcTNhhYqZU1ySROli7Oc08mxe1tZR)
@@ -460,6 +464,11 @@ Resources for eCCPTv2, OSCP and many more
 ### OSEP
 - #### [Nullg0re OSEP Experience](https://nullg0re.com/?p=113)
 - #### [OSEP Helful Resources](https://github.com/nullg0re/Experienced-Pentester-OSEP) - Nullg0re
+- #### [OSEP Code Snippets](https://github.com/chvancooten/OSEP-Code-Snippets) - Chvancooten Github
+- #### [OSEP PREP](https://github.com/r0r0x-xx/OSEP-Pre)
+- #### [Pen300 OSEP Prep](https://github.com/deletehead/pen_300_osep_prep) - Deletehead github
+- #### [Offensive Security Evasion](https://drive.google.com/file/d/1znezUNtghkcFhwfKMZmeyNrtdbwBXRsz/view?usp=sharing) - Joas Antino
+- #### [Awesome-Red-Team-Operations](https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations)
 ### eCCPTv2
 - #### [Great eCCPTv2 External Resources](https://community.ine.com/t/great-ptp-ecpptv2-external-resources/618)
 - #### [IamKsNoob Mind Maps and Notes](https://github.com/IamKsNoob/PTPv5)
