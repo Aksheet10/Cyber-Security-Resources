@@ -165,6 +165,8 @@ For providing some amazing resources!
 ## Binary-Exploitation
 
 - #### [Pwn College ](https://pwn.college/modules/intro)
+- #### [ROP Emporium](https://ropemporium.com/) - Learn return-oriented programming through a series of challenges.
+- #### [GuyInATuxedo Nightmare](https://guyinatuxedo.github.io/index.html)
 - #### [PWN Land](https://github.com/D4mianWayne/PwnLand)
 - #### [Buffer Overflow Series(Heath Adams)](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
 - #### [Buffer Overflow Guide](https://github.com/johnjhacking/Buffer-Overflow-Guide)
