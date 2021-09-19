@@ -452,6 +452,7 @@ Resources for eCPPTv2, OSCP and many more
 - #### [OSCE3 (OSWE, OSEP, OSED) Complete Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide) - CyberSecurityUP Github
 ### OSCP
 - #### [HackerStop OSCP resources](https://hackerstop.org/oscp)
+- #### [Security Prince PWK OSCP Preparation Roadmap](https://github.com/security-prince/PWK-OSCP-Preparation-Roadmap)
 - #### [Condo OSCP Prep Videos](https://www.youtube.com/playlist?list=PLDrNMcTNhhYqZU1ySROli7Oc08mxe1tZR)
     - #### [OSCP - OSCP - Windows Privilege Escalation Methodology](https://www.youtube.com/watch?v=Qfy-traJwIs&list=PLDrNMcTNhhYqZU1ySROli7Oc08mxe1tZR) - Condo YouTube
     - #### [OSCP - Linux Privilege Escalation Methodology](https://www.youtube.com/watch?v=VpNaPAh93vE) - Conda YouTube
