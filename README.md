@@ -292,8 +292,9 @@ For providing some amazing resources!
 - #### [Wreath from TryHackMe](https://tryhackme.com/jr/wreath)
 - #### [Explore Hidden Networks with Double Pivoting](https://pentest.blog/explore-hidden-networks-with-double-pivoting/) - Pentest.blog
 - #### [BackDoorShell blog for Pivoting](https://backdoorshell.gitbooks.io/oscp-useful-links/content/pivoting.html)
-- #### [The Cyber Plumber's Handbook(It is a paid book)](https://opsdisk.gumroad.com/l/the_cyber_plumbers_handbook)
+- #### [The Cyber Plumber's Handbook](https://opsdisk.gumroad.com/l/the_cyber_plumbers_handbook) - It is a paid book
 - #### [A Red Teamer's guide to Pivoting](https://artkond.com/2017/03/23/pivoting-guide/)
+- #### [How to use SSH Tunneling](https://www.howtogeek.com/168145/how-to-use-ssh-tunneling/) - Howtogeek
 - #### [Pivoting With Chisel](https://ap3x.github.io/posts/pivoting-with-chisel/)
 - #### [Nessus over SOCKS over Metasploit](https://digi.ninja/blog/nessus_over_sock4a_over_msf.php)
 - #### [SOCKS Proxy Lab Setup](https://kiwids.notion.site/SOCKS-Proxy-Lab-Setup-07112c68fcc14aa1917505dcd6eeb35b) - by [Kiwids](https://kiwids.me) (Notion)
