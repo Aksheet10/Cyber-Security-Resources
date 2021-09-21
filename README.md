@@ -302,11 +302,11 @@ For providing some amazing resources!
 
 ## Docker
 
-- #### [The Docker Handbook (docker-handbook.farhan.dev)](https://docker-handbook.farhan.dev/)
-- #### [Docker For Pentesters - blg.ropnop](https://blog.ropnop.com/docker-for-pentesters/)
+- #### [The Docker Handbook (docker-handbook.farhan.dev)](https://docker-handbook.farhan.dev/) - Docker-handbook.farhaan
+- #### [Docker For Pentesters - blg.ropnop](https://blog.ropnop.com/docker-for-pentesters/) - Blog.Ropnop
 - #### [Docker Getting Started](https://hub.docker.com/r/docker/getting-started) - Docker Hub
-- #### [Docker 101 Tutorial](https://www.docker.com/101-tutorial)
-- 
+- #### [Docker 101 Tutorial](https://www.docker.com/101-tutorial) - Docker.com
+- #### [University of Helsinki DevOps with Docker course](https://devopswithdocker.com/) - Devopswithdocker.co,
 
 ---
 
@@ -325,8 +325,8 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
 	### JavaScript
 	
-	- #### [The Modern JavaScript Tutorial](https://javascript.info/)
-	- #### [SoloLearn JavaScript course](https://www.sololearn.com/learning/1024)
+	- #### [The Modern JavaScript Tutorial](https://javascript.info/) - Javascript.info
+	- #### [SoloLearn JavaScript course](https://www.sololearn.com/learning/1024) - Sololearn
 
 	### C++
 	 
@@ -360,7 +360,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 	
 	### Bash
 	
-	- #### [Bash Programming guide](https://guide.bash.academy/)
+	- #### [Bash Programming guide](https://guide.bash.academy/) - Guid.bash.academy
 
 --- 
 
@@ -372,9 +372,9 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    
    - #### [PowerShell for Pentesters by The Mayor](https://www.youtube.com/playlist?list=PLJQHPJLj_SQatUsJy3O4k-VQlllquDmDr) - YouTube
    - #### [Powershell for Pentesters by PenTester Academy](https://www.youtube.com/playlist?list=PLzKIBgD3ky20006eJjHXvx9MIYM7nzQlp) - YouTube
-   - #### [PowerShell 101 by Mike F Robbins](https://leanpub.com/powershell101)
-   - #### [PowerShell and DSC Team Channel (YouTube)](https://www.youtube.com/channel/UCMhQH-yJlr4_XHkwNunfMog)
-   - #### [HackAllTheThings PowerShell Cheat Sheet](https://akenofu.gitbook.io/hackallthethings/active-directory/powershell-one-liners)
+   - #### [PowerShell 101 by Mike F Robbins](https://leanpub.com/powershell101) - Leanpub
+   - #### [PowerShell and DSC Team Channel (YouTube)](https://www.youtube.com/channel/UCMhQH-yJlr4_XHkwNunfMog) - Youtube
+   - #### [HackAllTheThings PowerShell Cheat Sheet](https://akenofu.gitbook.io/hackallthethings/active-directory/powershell-one-liners) - Akenofu Gitbook
    - #### [PowerShell Beginners Guide](https://github.com/PowerShell/PowerShell/blob/master/docs/learning-powershell/powershell-beginners-guide.md) (More Resources in the bottom on that page)
    - #### [Windows PowerShell Tutorials](https://www.varonis.com/blog/windows-powershell-tutorials/)
    - #### [Guru99 PowerShell Tutorials](https://www.guru99.com/powershell-tutorial.html)
