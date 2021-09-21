@@ -396,6 +396,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    - #### [Red Team Essentials Hexachodanu](https://github.com/hexachordanu/Red-Team-Essentials/blob/master/Red-team.md)
    - #### [FuzzSecurity Windows Privilege Escalation](http://www.fuzzysecurity.com/tutorials/16.html)
    - #### [Top 16 Active Directory Vulnerabilites](https://www.infosecmatter.com/top-16-active-directory-vulnerabilities/)
+   - #### [Kerberos in Active Directory](https://en.hackndo.com/kerberos/) - Hackndo
    - #### [Windows Red Team Cheat Sheet](https://morph3sec.com/Cheat-Sheets/Windows-Red-Team-Cheat-Sheet/)
    - #### [Icel0rd AD Hacking Cheat Sheet](https://www.notion.so/icel0rd/Cheatsheat-e300daf53d1744738d45d59b1fae78ec)
    - #### [Attacking AD PEH notes by RubenFormation](https://github.com/rubenformation/Active-Directory-PT) (Attacking and Setup)
