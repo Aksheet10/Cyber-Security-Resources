@@ -221,6 +221,8 @@ For providing some amazing resources!
 
 - #### [Art of Anti Detection 1 – Introduction to AV & Detection Techniques](https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/) - Pentest.blog
 - #### [Art of Anti Detection 2 - PE Backdoor Manufacturing](https://pentest.blog/art-of-anti-detection-2-pe-backdoor-manufacturing/)) - Pentest.blog
+- #### [Malware Development Part 1](https://0xpat.github.io/Malware_development_part_1/) - 0xPat Github
+- #### [Malware Development Part 2](https://0xpat.github.io/Malware_development_part_2/) - 0xPat Github
 - #### [A Tale of EDR Bypass Methods](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/) - S3cur3th1ssh1t
 - #### [Windows Defender AV Evasion](https://www.purpl3f0xsecur1ty.tech/2021/03/30/av_evasion.html) - Purpl3f0xsecur1ty
 - #### [Write a Crypter in any Language](https://netsec.expert/posts/write-a-crypter-in-any-language/) - Netsec.expert
