@@ -61,6 +61,7 @@ For providing some amazing resources!
 - #### [Learning Path for Beginners](https://mrashleyball.com/learning-path-for-beginner-hacker/) - Mrashleyball
 - #### [Beginning in Offensive Security Part 1](https://docs.google.com/presentation/d/1viL2C0yr2Beeb6JHaTJa6_qsZj2x8NMWsqol8xrEJV8/edit#slide=id.p) - [Mrs_Skelli](https://skelli.win)
 - #### [Beginnings of Offensive Security Part 2](https://docs.google.com/presentation/d/12Zcqh3QyIk__Cq3NcVZudo0AAR5J00HmZVfyTivk6xQ/edit#slide=id.gbaee63b82a_0_8) - [Mrs_Skelli](https://skelli.win)
+- #### [Awesome Thread To Explain All the Essentials Tools in a Simple Way](https://twitter.com/parsan26/status/1439535368173277185?s=20) - [https://twitter.com/parsan26](Parsan26 Twitter)
 - #### [CyberSec Courses for Beginners](https://hackerstop.org/hacking)
 - #### [Future Careers for the World's Workforce](https://github.com/udacity)
 - #### [Akenofu Great Collection of Resources](https://akenofu.gitbook.io/hackallthethings/)
