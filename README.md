@@ -472,6 +472,7 @@ Thank's to [Jayy](https://github.com/Jayy001) and [MamaMouse](https://keybase.io
 Resources for eCPPTv2, OSCP and many more
 - #### [OSCE3 (OSWE, OSEP, OSED) Complete Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide) - CyberSecurityUP Github
 ### OSCP
+- #### [OSCP Useful Links](https://backdoorshell.gitbooks.io/oscp-useful-links/content/) - BackDoorShell.gitbooks
 - #### [OSCP Preperation Guide](https://github.com/Cyber-Junk/OSCP-Preparation-Guide/blob/main/RESORCES.md) - Cyber-Junk Github
 - #### [HackerStop OSCP resources](https://hackerstop.org/oscp)
 - #### [Security Prince PWK OSCP Preparation Roadmap](https://github.com/security-prince/PWK-OSCP-Preparation-Roadmap)
