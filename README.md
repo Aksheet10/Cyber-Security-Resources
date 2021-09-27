@@ -139,7 +139,8 @@ For providing some amazing resources!
 
 ## Web-Pentesting
 
-- ### [RCE via LFI Log Poisoning](https://shahjerry33.medium.com/rce-via-lfi-log-poisoning-the-death-potion-c0831cebc16d) - ShahJerry33 Medium
+- #### [Web Cheat Sheet](https://guide.offsecnewbie.com/web) - Guide.OffsecNewbie
+- #### [RCE via LFI Log Poisoning](https://shahjerry33.medium.com/rce-via-lfi-log-poisoning-the-death-potion-c0831cebc16d) - ShahJerry33 Medium
 - #### [Xapax Attacking Web Applications - OAuth Attack](https://xapax.github.io/security/#attacking_web_applications/oauth_attacks/) (Many more topics in the index)
 - #### [5 Most Effective Ways of Learning in Bug Bounty](https://infosecwriteups.com/5-most-effective-ways-of-learning-in-bug-bounty-afaf097f4df1)
 - #### [HackAllTheThings Web-App Articles](https://akenofu.gitbook.io/hackallthethings/web-applications)
@@ -402,6 +403,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    - #### [TarlogicSecurity Kerberos Cheat Sheet](https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a)
    - #### [Red Team Essentials Hexachodanu](https://github.com/hexachordanu/Red-Team-Essentials/blob/master/Red-team.md)
    - #### [FuzzSecurity Windows Privilege Escalation](http://www.fuzzysecurity.com/tutorials/16.html)
+   - #### [Privilege Escalation Windows](https://guide.offsecnewbie.com/privilege-escalation/windows-pe) - Guide.OffsecNewbie
    - #### [Top 16 Active Directory Vulnerabilites](https://www.infosecmatter.com/top-16-active-directory-vulnerabilities/)
    - #### [Kerberos in Active Directory](https://en.hackndo.com/kerberos/) - Hackndo
    - #### [Windows Red Team Cheat Sheet](https://morph3sec.com/Cheat-Sheets/Windows-Red-Team-Cheat-Sheet/)
