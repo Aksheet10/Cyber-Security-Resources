@@ -403,6 +403,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    - #### [TarlogicSecurity Kerberos Cheat Sheet](https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a)
    - #### [Red Team Essentials Hexachodanu](https://github.com/hexachordanu/Red-Team-Essentials/blob/master/Red-team.md)
    - #### [FuzzSecurity Windows Privilege Escalation](http://www.fuzzysecurity.com/tutorials/16.html)
+   - #### [The Read Team Guide - Privilege Escalation](https://kwcsec.gitbook.io/the-red-team-handbook/techniques/privilege-escalation) - KwcSec.github
    - #### [Privilege Escalation Windows](https://guide.offsecnewbie.com/privilege-escalation/windows-pe) - Guide.OffsecNewbie
    - #### [Top 16 Active Directory Vulnerabilites](https://www.infosecmatter.com/top-16-active-directory-vulnerabilities/)
    - #### [Kerberos in Active Directory](https://en.hackndo.com/kerberos/) - Hackndo
