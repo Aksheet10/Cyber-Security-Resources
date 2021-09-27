@@ -254,6 +254,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [OSCE3 (OSWE, OSEP, OSED) Complete Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide) - CyberSecurityUP Github
+- #### [Rowbot's Pentesting Notes](https://guide.offsecnewbie.com/) - OffsecNewbie.com
 - #### [HighOnCoffee Blogs](https://highon.coffee/blog/)
 - #### [The Red Team HandBook](https://kwcsec.gitbook.io/the-red-team-handbook/) - LwSec Gitbook
 - #### [GhostSec420 Pentest Toolkits and Resources](https://github.com/ghostsec420/SCPA/blob/main/Pentest_Toolkits_and_Resources.md)
@@ -290,6 +291,7 @@ For providing some amazing resources!
 
 (These can also be very helpfull for eCPPTv2)
 
+- #### [Port Forwarding/SSH Tunneling](https://guide.offsecnewbie.com/port-forwarding-ssh-tunneling) - Guide.OffsecNewbie
 - #### [State of the Art of Network Pivoting](https://blog.raw.pm/en/state-of-the-art-of-network-pivoting-in-2019/)
 - #### [Read Team Handbook Pivoting](https://kwcsec.gitbook.io/the-red-team-handbook/techniques/defense-evasion/minimization/pivoting) - KwcSec
 - #### [Offensive Security Guide to SSH Tunnels and Proxies](https://posts.specterops.io/offensive-security-guide-to-ssh-tunnels-and-proxies-b525cbd4d4c6) - Specterops
