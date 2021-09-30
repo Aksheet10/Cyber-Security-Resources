@@ -139,6 +139,11 @@ For providing some amazing resources!
 
 ## Web-Pentesting
 
+- #### [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - Nahamsec Github
+	- #### [Resources for Beginner Bug Bounty Hunters - Basics](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/basics.md) - Nahamsec Github
+	- #### [Resources for Beginner Bug Bounty Hunters - Labs Setup](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/setup.md) - Nahamsec Github
+	- #### [Resources for Beginner Bug Bounty Hunters - Vuln Types](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/vulns.md) - Nahamsec Github
+	- #### [Resources for Beginner Bug Bounty Hunters - Blogs and Reports](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/blogposts.md) - Nahamsec Github
 - #### [Web Cheat Sheet](https://guide.offsecnewbie.com/web) - Guide.OffsecNewbie
 - #### [RCE via LFI Log Poisoning](https://shahjerry33.medium.com/rce-via-lfi-log-poisoning-the-death-potion-c0831cebc16d) - ShahJerry33 Medium
 - #### [Xapax Attacking Web Applications - OAuth Attack](https://xapax.github.io/security/#attacking_web_applications/oauth_attacks/) (Many more topics in the index)
@@ -254,6 +259,7 @@ For providing some amazing resources!
 
 ## Amazing Sites
 
+- #### [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug) - Nahamsec Github
 - #### [OSCE3 (OSWE, OSEP, OSED) Complete Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide) - CyberSecurityUP Github
 - #### [Rowbot's Pentesting Notes](https://guide.offsecnewbie.com/) - OffsecNewbie.com
 - #### [HighOnCoffee Blogs](https://highon.coffee/blog/)
@@ -319,6 +325,9 @@ For providing some amazing resources!
 ---
 
 ## Programming
+
+ - #### [Resources for Beginner Bug Bounty Hunters - Coding](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/coding.md) - Nahamsec Github
+ 
 Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md#c)
  - #### [Programming Books Free](https://books.goalkicker.com/)
  	### Python 
