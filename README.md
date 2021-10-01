@@ -241,7 +241,7 @@ For providing some amazing resources!
 
 - #### [Implane Development and Defense Evasion Part 1 - File Basics](https://lsteelo.medium.com/implant-development-and-defense-evasion-part-1-file-basics-532eb258b6bf) Lsteelo Medium
 - #### [GhostSec420 Bypass AV Dynamics](https://github.com/ghostsec420/SCPA/blob/main/BypassAVDynamics.pdf)
-- #### [NiicConsulting Simple CMD Reverse Shell](https://niiconsulting.com/checkmate/2018/11/malware-on-steroids-part-1-simple-cmd-reverse-shell/)
+- #### [NiiConsulting Simple CMD Reverse Shell](https://niiconsulting.com/checkmate/2018/11/malware-on-steroids-part-1-simple-cmd-reverse-shell/)
 - #### [IRED Team](https://www.ired.team/)
 - #### [0xHop Blog on AV Evasion part 1](https://0xhop.github.io/evasion/2021/04/19/evasion-pt1/)
 - #### [0xHop Blog on AV Evasion part 2](https://0xhop.github.io/evasion/2021/05/26/evasion-pt2/)
