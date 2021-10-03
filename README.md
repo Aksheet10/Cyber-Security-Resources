@@ -2,6 +2,7 @@
 I have collected many FREE resources and may add many more in the future thanks :)
 It will help you a lot :D
 
+DM Me on Discord if you want to add more resources or suggest some changes - BwainLess#5330
 Credits are also included for some google docs
 
 Thanks to 
