@@ -144,7 +144,9 @@ For providing some amazing resources!
 	- #### [Resources for Beginner Bug Bounty Hunters - Labs Setup](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/setup.md) - Nahamsec Github
 	- #### [Resources for Beginner Bug Bounty Hunters - Vuln Types](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/vulns.md) - Nahamsec Github
 	- #### [Resources for Beginner Bug Bounty Hunters - Blogs and Reports](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/blogposts.md) - Nahamsec Github
+- #### [SecurityIdiots](http://www.securityidiots.com/) - Web Hacking Blogs by Faraz Khan
 - #### [Web Cheat Sheet](https://guide.offsecnewbie.com/web) - Guide.OffsecNewbie
+- #### [Web Application Penetration Testing Notes](https://techvomit.net/web-application-penetration-testing-notes/) - Techvomit.net
 - #### [RCE via LFI Log Poisoning](https://shahjerry33.medium.com/rce-via-lfi-log-poisoning-the-death-potion-c0831cebc16d) - ShahJerry33 Medium
 - #### [Xapax Attacking Web Applications - OAuth Attack](https://xapax.github.io/security/#attacking_web_applications/oauth_attacks/) (Many more topics in the index)
 - #### [5 Most Effective Ways of Learning in Bug Bounty](https://infosecwriteups.com/5-most-effective-ways-of-learning-in-bug-bounty-afaf097f4df1)
@@ -260,6 +262,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug) - Nahamsec Github
+- #### [SecurityIdiots](http://www.securityidiots.com/) - Web Hacking Blogs by Faraz Khan
 - #### [OSCE3 (OSWE, OSEP, OSED) Complete Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide) - CyberSecurityUP Github
 - #### [Rowbot's Pentesting Notes](https://guide.offsecnewbie.com/) - OffsecNewbie.com
 - #### [HighOnCoffee Blogs](https://highon.coffee/blog/)
