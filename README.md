@@ -33,6 +33,7 @@ For providing some amazing resources!
 - [Evasion And Malware](#evasion-and-malware)
 - [Forensics](#forensics)
 - [Amazing Training Sites](#amazing-sites)
+- [Gitooks](#gitbooks)
 - [Pivoting Guides](#pivoting-guides)
 - [Docker](#docker)
 - [Programming](#programming)
@@ -67,7 +68,6 @@ For providing some amazing resources!
 - #### [Awesome Thread To Explain All the Essentials Tools in a Simple Way](https://twitter.com/parsan26/status/1439535368173277185?s=20) - [https://twitter.com/parsan26](Parsan26 Twitter)
 - #### [CyberSec Courses for Beginners](https://hackerstop.org/hacking)
 - #### [Future Careers for the World's Workforce](https://github.com/udacity)
-- #### [Akenofu Great Collection of Resources](https://akenofu.gitbook.io/hackallthethings/)
 - #### [FreeTraining DFIRDIVA Core Training CyberSec](https://freetraining.dfirdiva.com/category/free-training-categories/core-training/cybersecurity)
 - #### [CyberAces tutorials](https://tutorials.cyberaces.org/tutorials.html) Windows, Linux, Networking, PowerShell, Bash, Python
 - #### [Awesome Computer History](https://github.com/watson/awesome-computer-history)
@@ -232,11 +232,11 @@ For providing some amazing resources!
 
 ## Evasion And Malware
 
+- #### [Defense Evasion](https://hunter2.gitbook.io/darthsidious/defense-evasion/bypassing-applocker-and-powershell-contstrained-language-mode)
 - #### [Art of Anti Detection 1 – Introduction to AV & Detection Techniques](https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/) - Pentest.blog
 - #### [Art of Anti Detection 2 - PE Backdoor Manufacturing](https://pentest.blog/art-of-anti-detection-2-pe-backdoor-manufacturing/)) - Pentest.blog
 - #### [Malware Development Part 1](https://0xpat.github.io/Malware_development_part_1/) - 0xPat Github
 - #### [Malware Development Part 2](https://0xpat.github.io/Malware_development_part_2/) - 0xPat Github
-- #### [Defense Evasion](https://hunter2.gitbook.io/darthsidious/defense-evasion/bypassing-applocker-and-powershell-contstrained-language-mode) - Hunter2.gitbook
 - #### [A Tale of EDR Bypass Methods](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/) - S3cur3th1ssh1t
 - #### [Windows Defender AV Evasion](https://www.purpl3f0xsecur1ty.tech/2021/03/30/av_evasion.html) - Purpl3f0xsecur1ty
 - #### [Write a Crypter in any Language](https://netsec.expert/posts/write-a-crypter-in-any-language/) - Netsec.expert
@@ -267,18 +267,13 @@ For providing some amazing resources!
 
 - #### [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug) - Nahamsec Github
 - #### [SecurityIdiots](http://www.securityidiots.com/) - Web Hacking Blogs by Faraz Khan
-- #### [Red Team Notes 2.0](https://dmcxblue.gitbook.io/red-team-notes-2-0/) - DMCXBlue.gitbook
-- #### [Darth Sidious](https://hunter2.gitbook.io/darthsidious/) - Hunter2.gitbook
 - #### [OSCE3 (OSWE, OSEP, OSED) Complete Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide) - CyberSecurityUP Github
 - #### [Rowbot's Pentesting Notes](https://guide.offsecnewbie.com/) - OffsecNewbie.com
 - #### [HighOnCoffee Blogs](https://highon.coffee/blog/)
-- #### [The Red Team HandBook](https://kwcsec.gitbook.io/the-red-team-handbook/) - LwSec Gitbook
 - #### [GhostSec420 Pentest Toolkits and Resources](https://github.com/ghostsec420/SCPA/blob/main/Pentest_Toolkits_and_Resources.md)
 - #### [GTFOBins](https://gtfobins.github.io/) - Linux Service Escalation Cheat Sheet
 - #### [Wadcoms](https://wadcoms.github.io/) - Windows Service Escalation Cheat Sheet
-- #### [HackAllTheThings](https://akenofu.gitbook.io/hackallthethings/)
 - #### [A brilliant CheatSheet and Explanations for various topics](https://xapax.github.io/security) - Xapax Github
-- #### [The Read Team Handbook - KwcSec GitLab](https://kwcsec.gitbook.io/the-red-team-handbook/)
 - #### [FuzzSecurity Tutorial](http://www.fuzzysecurity.com/tutorials.html)
 - #### [Nickapic's notes](https://enotes.nickapic.com/)
 - #### [ExplainShell](https://explainshell.com/)
@@ -300,6 +295,18 @@ For providing some amazing resources!
 - #### [Learn Linux](https://linuxjourney.com/)
 - #### [Proffesor Messer](https://www.professormesser.com/)
 - #### [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook/LinuxNotesForProfessionals.pdf)
+
+---
+
+## Gitbooks
+
+- #### [OSCP Useful Links](https://backdoorshell.gitbooks.io/oscp-useful-links/content/) - BackDoorShell.gitbooks
+- #### [The Read Team Handbook](https://kwcsec.gitbook.io/the-red-team-handbook/) - KwcSec.gitbook
+- #### [Hack All The Things](https://akenofu.gitbook.io/hackallthethings/) - Akenofu.gitbook
+- #### [DarkSidious](https://hunter2.gitbook.io/darthsidious/) - Hunter2.gitbook
+- #### [What is AD101?](https://kvenkatraman10.gitbook.io/ad101/) - Kvenkatraman10.gitbook
+- #### [Certification Notes and Cheat Sheets](https://ferx.gitbook.io/wiki/) - Ferx.gitbook
+- #### [Red Team Notes 2.0](https://dmcxblue.gitbook.io/red-team-notes-2-0/) - DMCXBlue.gitbook
 
 ---
 
