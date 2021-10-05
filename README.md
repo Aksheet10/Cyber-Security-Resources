@@ -232,6 +232,7 @@ For providing some amazing resources!
 
 ## Evasion And Malware
 
+- #### [BlackCloud - infosec and other stuffs](https://blackcloud.me/)
 - #### [Defense Evasion](https://dmcxblue.gitbook.io/red-team-notes-2-0/red-team-techniques/defense-evasion) - DMCXBlue.gitbook
 - #### [Defense Evasion](https://hunter2.gitbook.io/darthsidious/defense-evasion/bypassing-applocker-and-powershell-contstrained-language-mode)
 - #### [Art of Anti Detection 1 – Introduction to AV & Detection Techniques](https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/) - Pentest.blog
