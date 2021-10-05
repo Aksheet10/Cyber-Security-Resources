@@ -145,6 +145,7 @@ For providing some amazing resources!
 	- #### [Resources for Beginner Bug Bounty Hunters - Labs Setup](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/setup.md) - Nahamsec Github
 	- #### [Resources for Beginner Bug Bounty Hunters - Vuln Types](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/vulns.md) - Nahamsec Github
 	- #### [Resources for Beginner Bug Bounty Hunters - Blogs and Reports](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/blogposts.md) - Nahamsec Github
+- #### [XSS Resources](https://infosecwriteups.com/xss-all-resources-in-one-blog-cce53c79f6bb) - InfosecWriteups
 - #### [SecurityIdiots](http://www.securityidiots.com/) - Web Hacking Blogs by Faraz Khan
 - #### [Web Cheat Sheet](https://guide.offsecnewbie.com/web) - Guide.OffsecNewbie
 - #### [Web Application Penetration Testing Notes](https://techvomit.net/web-application-penetration-testing-notes/) - Techvomit.net
