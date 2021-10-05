@@ -2,7 +2,8 @@
 I have collected many FREE resources and may add many more in the future thanks :)
 It will help you a lot :D
 
-DM Me on Discord if you want to add more resources or suggest some changes - BwainLess#5330
+DM Me on Discord if you want to add more resources or suggest some changes - **BwainLess#5330**
+
 Credits are also included for some google docs
 
 Thanks to 
@@ -235,6 +236,7 @@ For providing some amazing resources!
 - #### [Art of Anti Detection 2 - PE Backdoor Manufacturing](https://pentest.blog/art-of-anti-detection-2-pe-backdoor-manufacturing/)) - Pentest.blog
 - #### [Malware Development Part 1](https://0xpat.github.io/Malware_development_part_1/) - 0xPat Github
 - #### [Malware Development Part 2](https://0xpat.github.io/Malware_development_part_2/) - 0xPat Github
+- #### [Defense Evasion](https://hunter2.gitbook.io/darthsidious/defense-evasion/bypassing-applocker-and-powershell-contstrained-language-mode) - Hunter2.gitbook
 - #### [A Tale of EDR Bypass Methods](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/) - S3cur3th1ssh1t
 - #### [Windows Defender AV Evasion](https://www.purpl3f0xsecur1ty.tech/2021/03/30/av_evasion.html) - Purpl3f0xsecur1ty
 - #### [Write a Crypter in any Language](https://netsec.expert/posts/write-a-crypter-in-any-language/) - Netsec.expert
@@ -265,6 +267,8 @@ For providing some amazing resources!
 
 - #### [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug) - Nahamsec Github
 - #### [SecurityIdiots](http://www.securityidiots.com/) - Web Hacking Blogs by Faraz Khan
+- #### [Red Team Notes 2.0](https://dmcxblue.gitbook.io/red-team-notes-2-0/) - DMCXBlue.gitbook
+- #### [Darth Sidious](https://hunter2.gitbook.io/darthsidious/) - Hunter2.gitbook
 - #### [OSCE3 (OSWE, OSEP, OSED) Complete Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide) - CyberSecurityUP Github
 - #### [Rowbot's Pentesting Notes](https://guide.offsecnewbie.com/) - OffsecNewbie.com
 - #### [HighOnCoffee Blogs](https://highon.coffee/blog/)
@@ -411,6 +415,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    ### Windows and Active Directory Hacking
   
    - #### [RedTeam Security Live Hacking Demonstration](https://www.youtube.com/watch?v=k6EOhO3JKCQ) - YouTube
+   - #### [Intro To Windows Hashes](https://hunter2.gitbook.io/darthsidious/getting-started/intro-to-windows-hashes) - Hunter2.gitbook
    - #### [Understanding Active Directory Enumeration](https://attl4s.github.io/assets/pdf/Understanding_Active_Directory_Enumeration.pdf) - Attl4s.github
    - #### [Pentesting AD MindMap](https://github.com/Orange-Cyberdefense/arsenal/raw/master/mindmap/pentest_ad.png) - M4yFly
    - #### [Pentesting AD MindMap 2](https://i.ibb.co/TKYNCNP/Pentest-ad.png) - M4yFly
