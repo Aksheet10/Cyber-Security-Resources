@@ -232,12 +232,15 @@ For providing some amazing resources!
 
 ## Evasion And Malware
 
+- #### [Defense Evasion](https://dmcxblue.gitbook.io/red-team-notes-2-0/red-team-techniques/defense-evasion) - DMCXBlue.gitbook
 - #### [Defense Evasion](https://hunter2.gitbook.io/darthsidious/defense-evasion/bypassing-applocker-and-powershell-contstrained-language-mode)
 - #### [Art of Anti Detection 1 – Introduction to AV & Detection Techniques](https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/) - Pentest.blog
 - #### [Art of Anti Detection 2 - PE Backdoor Manufacturing](https://pentest.blog/art-of-anti-detection-2-pe-backdoor-manufacturing/)) - Pentest.blog
 - #### [Malware Development Part 1](https://0xpat.github.io/Malware_development_part_1/) - 0xPat Github
 - #### [Malware Development Part 2](https://0xpat.github.io/Malware_development_part_2/) - 0xPat Github
 - #### [A Tale of EDR Bypass Methods](https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/) - S3cur3th1ssh1t
+- #### [Defense Evasion](https://kwcsec.gitbook.io/the-red-team-handbook/techniques/defense-evasion) - Kwsec.gitbook
+- #### [Evasion Windows](https://akenofu.gitbook.io/hackallthethings/evasion/) - Akenofu.gitbook
 - #### [Windows Defender AV Evasion](https://www.purpl3f0xsecur1ty.tech/2021/03/30/av_evasion.html) - Purpl3f0xsecur1ty
 - #### [Write a Crypter in any Language](https://netsec.expert/posts/write-a-crypter-in-any-language/) - Netsec.expert
 - #### [Bypass AV Dynamics](https://blog.sevagas.com/IMG/pdf/BypassAVDynamics.pdf) -  blog.Sevages
@@ -269,6 +272,7 @@ For providing some amazing resources!
 - #### [SecurityIdiots](http://www.securityidiots.com/) - Web Hacking Blogs by Faraz Khan
 - #### [OSCE3 (OSWE, OSEP, OSED) Complete Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide) - CyberSecurityUP Github
 - #### [Rowbot's Pentesting Notes](https://guide.offsecnewbie.com/) - OffsecNewbie.com
+- #### [Reverse Shell Cheat Sheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
 - #### [HighOnCoffee Blogs](https://highon.coffee/blog/)
 - #### [GhostSec420 Pentest Toolkits and Resources](https://github.com/ghostsec420/SCPA/blob/main/Pentest_Toolkits_and_Resources.md)
 - #### [GTFOBins](https://gtfobins.github.io/) - Linux Service Escalation Cheat Sheet
