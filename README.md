@@ -255,8 +255,7 @@ For providing some amazing resources!
 - #### [IRED Team](https://www.ired.team/)
 - #### [0xHop Blog on AV Evasion part 1](https://0xhop.github.io/evasion/2021/04/19/evasion-pt1/)
 - #### [0xHop Blog on AV Evasion part 2](https://0xhop.github.io/evasion/2021/05/26/evasion-pt2/)
-- #### [AV Evasion Mimikatz](https://www.youtube.com/watch?v=9pwMCHlNma4)
-
+- #### [AV Evasion Mimikatz](https://www.youtube.com/watch?v=9pwMCHlNma4) - IppSec YouTube
 
 ---
 
