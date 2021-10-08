@@ -91,6 +91,10 @@ For providing some amazing resources!
  
  NOTE: Some are taken from [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books.md#networking)
 
+- ### [Free Code Camp](https://freecodecamp.org)
+    - #### [Network Layers and the Relationships Between Them](https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners)
+    - #### [How Computers Work, How the Internet Works And Some Computer Security Basics](https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/)
+    - #### []()
 - #### [ITMASTERS Free Short Course Computer Network Fundamentals](https://itmasters.edu.au/free-short-course-computer-network-fundamentals/) and a free exam at the end.
 - #### [FREE CCNA 200-301. Complete Course. NetworkChuck 2021](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 - #### [Cisoc Skillsforall Network Essentials](https://skillsforall.com/course/networking-essentials)
@@ -346,7 +350,8 @@ For providing some amazing resources!
 
 ## Programming
 
- - #### [Resources for Beginner Bug Bounty Hunters - Coding](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/coding.md) - Nahamsec Github
+- #### [How To Start Learning Programming](https://www.freecodecamp.org/news/how-to-learn-programming/) - Freecodecamp.org
+- #### [Resources for Beginner Bug Bounty Hunters - Coding](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/coding.md) - Nahamsec Github
  
 Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md#c)
  - #### [Programming Books Free](https://books.goalkicker.com/)
@@ -576,8 +581,8 @@ Resources for eCPPTv2, OSCP and many more
 	- #### [NMAP Cheat Sheet](https://highon.coffee/blog/nmap-cheat-sheet/) 
 - Linux Commands Cheat Sheet
 	- #### [Linux Cheat Sheet](https://highon.coffee/blog/linux-commands-cheat-sheet/) 
-- Security Hardening CentO 7 
-	- #### [Security Harden Centos 7](https://highon.coffee/blog/security-harden-centos-7/) 
+- Security Hardening CentOS 7 
+	- #### [Security Harden CentOS 7](https://highon.coffee/blog/security-harden-centos-7/) 
 - MetaSploit Cheat Sheet 
 	- #### [Metasploit Cheat Sheet](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf) 
  - Google Hacking Database:
