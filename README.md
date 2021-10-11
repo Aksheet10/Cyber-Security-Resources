@@ -66,6 +66,7 @@ For providing some amazing resources!
 - #### [Beginning in Offensive Security Part 1](https://docs.google.com/presentation/d/1viL2C0yr2Beeb6JHaTJa6_qsZj2x8NMWsqol8xrEJV8/edit#slide=id.p) - [Mrs_Skelli](https://skelli.win)
 - #### [Beginnings of Offensive Security Part 2](https://docs.google.com/presentation/d/12Zcqh3QyIk__Cq3NcVZudo0AAR5J00HmZVfyTivk6xQ/edit#slide=id.gbaee63b82a_0_8) - [Mrs_Skelli](https://skelli.win)
 - #### [Awesome Thread To Explain All the Essentials Tools in a Simple Way](https://twitter.com/parsan26/status/1439535368173277185?s=20) - [https://twitter.com/parsan26](Parsan26 Twitter)
+- #### [W3rni0 Awesome Resources](https://github.com/W3rni0/W3rni0-awesome-resources) - W3rni0 Github
 - #### [CyberSec Courses for Beginners](https://hackerstop.org/hacking)
 - #### [Future Careers for the World's Workforce](https://github.com/udacity)
 - #### [FreeTraining DFIRDIVA Core Training CyberSec](https://freetraining.dfirdiva.com/category/free-training-categories/core-training/cybersecurity)
@@ -273,6 +274,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug) - Nahamsec Github
+- #### [W3rni0 Awesome Resources](https://github.com/W3rni0/W3rni0-awesome-resources) - W3rni0 Github
 - #### [SecurityIdiots](http://www.securityidiots.com/) - Web Hacking Blogs by Faraz Khan
 - #### [OSCE3 (OSWE, OSEP, OSED) Complete Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide) - CyberSecurityUP Github
 - #### [Rowbot's Pentesting Notes](https://guide.offsecnewbie.com/) - OffsecNewbie.com
