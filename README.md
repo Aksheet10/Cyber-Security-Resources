@@ -268,6 +268,7 @@ For providing some amazing resources!
 
 - #### [Introduction to Windows Forensics](https://www.youtube.com/playlist?list=PLlv3b9B16ZadqDQH0lTRO4kqn2P1g9Mve)
 - #### [A Source for PCAP Files and Malware Samples](https://www.malware-traffic-analysis.net/)
+- #### [Data Carving using Foremost](https://www.hackingarticles.in/forensic-data-carving-using-foremost/) - Hackingarticles.in
 
 ---
 
