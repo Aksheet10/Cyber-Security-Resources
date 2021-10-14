@@ -277,6 +277,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [PentesterLab Bootcamp](https://pentesterlab.com/bootcamp) - Pentesterlab
+- #### [Programming Tasks (with solutions in all languages)](https://rosettacode.org/wiki/Category:Programming_Tasks) - Rosettacode
 - #### [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug) - Nahamsec Github
 - #### [W3rni0 Awesome Resources](https://github.com/W3rni0/W3rni0-awesome-resources) - W3rni0 Github
 - #### [SecurityIdiots](http://www.securityidiots.com/) - Web Hacking Blogs by Faraz Khan
@@ -358,6 +359,7 @@ For providing some amazing resources!
 
 - #### [How To Start Learning Programming](https://www.freecodecamp.org/news/how-to-learn-programming/) - Freecodecamp.org
 - #### [Resources for Beginner Bug Bounty Hunters - Coding](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/coding.md) - Nahamsec Github
+- #### [Programming Tasks (with solutions in all languages)](https://rosettacode.org/wiki/Category:Programming_Tasks) - Rosettacode
  
 Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-en.md#c)
  - #### [Programming Books Free](https://books.goalkicker.com/)
