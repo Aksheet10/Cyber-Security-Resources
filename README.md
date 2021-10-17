@@ -438,6 +438,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
    ### Windows and Active Directory Hacking
   
+   - #### [Priv2Admin](https://github.com/gtworek/Priv2Admin) - Gtworek Github
    - #### [RedTeam Security Live Hacking Demonstration](https://www.youtube.com/watch?v=k6EOhO3JKCQ) - YouTube
    - #### [Intro To Windows Hashes](https://hunter2.gitbook.io/darthsidious/getting-started/intro-to-windows-hashes) - Hunter2.gitbook
    - #### [Understanding Active Directory Enumeration](https://attl4s.github.io/assets/pdf/Understanding_Active_Directory_Enumeration.pdf) - Attl4s.github
