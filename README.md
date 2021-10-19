@@ -96,7 +96,6 @@ For providing some amazing resources!
 - ### [Free Code Camp](https://freecodecamp.org)
     - #### [Network Layers and the Relationships Between Them](https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners)
     - #### [How Computers Work, How the Internet Works And Some Computer Security Basics](https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/)
-    - #### []()
 - #### [ITMASTERS Free Short Course Computer Network Fundamentals](https://itmasters.edu.au/free-short-course-computer-network-fundamentals/) and a free exam at the end.
 - #### [FREE CCNA 200-301. Complete Course. NetworkChuck 2021](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 - #### [Cisoc Skillsforall Network Essentials](https://skillsforall.com/course/networking-essentials)
@@ -153,6 +152,7 @@ For providing some amazing resources!
 	- #### [Resources for Beginner Bug Bounty Hunters - Vuln Types](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/vulns.md) - Nahamsec Github
 	- #### [Resources for Beginner Bug Bounty Hunters - Blogs and Reports](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/blogposts.md) - Nahamsec Github
 - #### [XSS Resources](https://infosecwriteups.com/xss-all-resources-in-one-blog-cce53c79f6bb) - InfosecWriteups
+- #### [SSTI and Some More Easy Reports for Bug Hunting](https://medium.com/@gandhim373/4-server-side-template-injection-easily-found-d7ca345aa55f) - Gandhim373 Medium
 - #### [SecurityIdiots](http://www.securityidiots.com/) - Web Hacking Blogs by Faraz Khan
 - #### [Web Cheat Sheet](https://guide.offsecnewbie.com/web) - Guide.OffsecNewbie
 - #### [Web Application Penetration Testing Notes](https://techvomit.net/web-application-penetration-testing-notes/) - Techvomit.net
