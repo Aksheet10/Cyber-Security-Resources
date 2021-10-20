@@ -29,6 +29,9 @@ For providing some amazing resources!
 - [Web Pentesting](#web-pentesting)
 - [Binary Expolitation](#binary-exploitation)
 - [x86-64 Assembly](#x86-64-assembly)
+- [Privilege Escalation](#privilege-escalation)
+-    - [Linux](#linux)
+-    - [Windows](#windows)
 - [Android Pentesting](#android-pentesting)
 - [Evasion And Malware](#evasion-and-malware)
 - [Forensics](#forensics)
@@ -225,6 +228,23 @@ For providing some amazing resources!
 - #### [IntroX86](https://www.opensecuritytraining.info/IntroX86.html)
 - #### [ARM Assembly](https://azeria-labs.com/writing-arm-assembly-part-1/)
 - #### [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](https://opensecuritytraining.info/IntroX86.html)
+
+---
+
+## Privilege Escalation
+
+- #### [Privilege Escalation](https://www.youtube.com/watch?v=VpNaPAh93vE&list=PLDrNMcTNhhYrBNZ_FdtMq-gLFQeUZFzWV) - Conda YouTube
+
+- ### Linux
+     - #### Conda YouTube
+     	- #### [OSCP - Linux Privilege Escalation Methodology](https://www.youtube.com/watch?v=VpNaPAh93vE)
+	- #### [Linux Privilege Escalation - Docker Group](https://www.youtube.com/watch?v=pRBj2dm4CDU)
+     - #### [Privilege Escalation](https://book.hacktricks.xyz/linux-unix/privilege-escalation) - Book.hacktricks
+
+- ### Windows
+    - #### [FuzzSecurity Windows Privilege Escalation](http://www.fuzzysecurity.com/tutorials/16.html)
+    - #### [The Read Team Guide - Privilege Escalation](https://kwcsec.gitbook.io/the-red-team-handbook/techniques/privilege-escalation) - KwcSec.github
+    - #### [Privilege Escalation Windows](https://guide.offsecnewbie.com/privilege-escalation/windows-pe) - Guide.OffsecNewbie
 
 ---
 
