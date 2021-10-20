@@ -69,7 +69,7 @@ For providing some amazing resources!
 - #### [Penetration Testing Bootcamp](https://www.youtube.com/playlist?list=PLBf0hzazHTGOepimcP15eS6Y-aR4m6ql3) - HackerSploit YouTube (55 Videos)
 - #### [Beginning in Offensive Security Part 1](https://docs.google.com/presentation/d/1viL2C0yr2Beeb6JHaTJa6_qsZj2x8NMWsqol8xrEJV8/edit#slide=id.p) - [Mrs_Skelli](https://skelli.win)
 - #### [Beginnings of Offensive Security Part 2](https://docs.google.com/presentation/d/12Zcqh3QyIk__Cq3NcVZudo0AAR5J00HmZVfyTivk6xQ/edit#slide=id.gbaee63b82a_0_8) - [Mrs_Skelli](https://skelli.win)
-- #### [Awesome Thread To Explain All the Essentials Tools in a Simple Way](https://twitter.com/parsan26/status/1439535368173277185?s=20) - [https://twitter.com/parsan26](Parsan26 Twitter)
+- #### [Awesome Thread To Explain All the Essentials Tools in a Simple Way](https://twitter.com/parsan26/status/1439535368173277185?s=20) - [Parsan26 Twitter](https://twitter.com/parsan26)
 - #### [W3rni0 Awesome Resources](https://github.com/W3rni0/W3rni0-awesome-resources) - W3rni0 Github
 - #### [CyberSec Courses for Beginners](https://hackerstop.org/hacking)
 - #### [Future Careers for the World's Workforce](https://github.com/udacity)
