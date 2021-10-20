@@ -71,7 +71,7 @@ For providing some amazing resources!
 - #### [Beginnings of Offensive Security Part 2](https://docs.google.com/presentation/d/12Zcqh3QyIk__Cq3NcVZudo0AAR5J00HmZVfyTivk6xQ/edit#slide=id.gbaee63b82a_0_8) - [Mrs_Skelli](https://skelli.win)
 - #### [Awesome Thread To Explain All the Essentials Tools in a Simple Way](https://twitter.com/parsan26/status/1439535368173277185?s=20) - [Parsan26 Twitter](https://twitter.com/parsan26)
 - #### [W3rni0 Awesome Resources](https://github.com/W3rni0/W3rni0-awesome-resources) - W3rni0 Github
-- #### [CyberSec Courses for Beginners](https://hackerstop.org/hacking)
+- #### [CyberSec Courses for Beginners](https://hackerstop.org/hacking) - Hackerstop.org
 - #### [Future Careers for the World's Workforce](https://github.com/udacity)
 - #### [FreeTraining DFIRDIVA Core Training CyberSec](https://freetraining.dfirdiva.com/category/free-training-categories/core-training/cybersecurity)
 - #### [CyberAces tutorials](https://tutorials.cyberaces.org/tutorials.html) Windows, Linux, Networking, PowerShell, Bash, Python
@@ -297,6 +297,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [PentesterLab Bootcamp](https://pentesterlab.com/bootcamp) - Pentesterlab
+- #### [W3rni0 Awesome Resources](https://github.com/W3rni0/W3rni0-awesome-resources) - W3rni0 Github
 - #### [Programming Tasks (with solutions in all languages)](https://rosettacode.org/wiki/Category:Programming_Tasks) - Rosettacode
 - #### [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug) - Nahamsec Github
 - #### [W3rni0 Awesome Resources](https://github.com/W3rni0/W3rni0-awesome-resources) - W3rni0 Github
