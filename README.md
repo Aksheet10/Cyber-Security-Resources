@@ -438,6 +438,11 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
    ### Windows and Active Directory Hacking
   
+   - #### [Attacking Active Directory](https://www.youtube.com/watch?v=Bm3mihQNGI4&list=PLDrNMcTNhhYqZj7WZt2GfNhBDqBnhW6AT) - Conda YouTube
+   	- #### [How to Setup a Virtual Windows Active Directory Domain](https://www.youtube.com/watch?v=Bm3mihQNGI4) - Conda YouTube
+   	- #### [Attacking Active Directory - Bloodhound](https://www.youtube.com/watch?v=aJqjH3MsbLM) - Conda YouTube
+   	- #### [Attacking Active Directory - AS-REP Roasting](https://www.youtube.com/watch?v=EVdwnBFtUtQ) - Conda YouTube
+   	- #### [Attacking Active Directory - Kerberoasting](https://www.youtube.com/watch?v=-3MxoxdzFNI) - Conda YouTube
    - #### [Priv2Admin](https://github.com/gtworek/Priv2Admin) - Gtworek Github
    - #### [RedTeam Security Live Hacking Demonstration](https://www.youtube.com/watch?v=k6EOhO3JKCQ) - YouTube
    - #### [Intro To Windows Hashes](https://hunter2.gitbook.io/darthsidious/getting-started/intro-to-windows-hashes) - Hunter2.gitbook
@@ -520,10 +525,10 @@ Resources for eCPPTv2, OSCP and many more
 - #### [OSCP Preperation Guide](https://github.com/Cyber-Junk/OSCP-Preparation-Guide/blob/main/RESORCES.md) - Cyber-Junk Github
 - #### [HackerStop OSCP resources](https://hackerstop.org/oscp)
 - #### [Security Prince PWK OSCP Preparation Roadmap](https://github.com/security-prince/PWK-OSCP-Preparation-Roadmap)
-- #### [Condo OSCP Prep Videos](https://www.youtube.com/playlist?list=PLDrNMcTNhhYqZU1ySROli7Oc08mxe1tZR)
-    - #### [OSCP - OSCP - Windows Privilege Escalation Methodology](https://www.youtube.com/watch?v=Qfy-traJwIs&list=PLDrNMcTNhhYqZU1ySROli7Oc08mxe1tZR) - Condo YouTube
+- #### [Conda OSCP Prep Videos](https://www.youtube.com/playlist?list=PLDrNMcTNhhYqZU1ySROli7Oc08mxe1tZR)
+    - #### [OSCP - OSCP - Windows Privilege Escalation Methodology](https://www.youtube.com/watch?v=Qfy-traJwIs&list=PLDrNMcTNhhYqZU1ySROli7Oc08mxe1tZR) - Conda YouTube
     - #### [OSCP - Linux Privilege Escalation Methodology](https://www.youtube.com/watch?v=VpNaPAh93vE) - Conda YouTube
-    - #### [OSCP Priv Esc MindMap](https://github.com/C0nd4/OSCP-Priv-Esc) - C0nd4
+    - #### [OSCP Priv Esc MindMap](https://github.com/C0nd4/OSCP-Priv-Esc) - C0nd4 Github
 - #### [TJNull's OSCP Prep Machines](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=1839402159)
 - #### [BurntMyBagel OSCP-Prep Resources](https://github.com/burntmybagel/OSCP-Prep)
 - #### [Tips for OSCP](https://www.reddit.com/r/netsecstudents/comments/5fwc1z/failed_the_oscp_any_tips_for_the_next_attempt/danovo5/)
