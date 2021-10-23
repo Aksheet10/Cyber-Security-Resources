@@ -149,6 +149,7 @@ For providing some amazing resources!
 
 ## Web-Pentesting
 
+- #### [Web-Services Recon](https://www.thehacker.recipes/web-services/recon) - Thehacker.recipes
 - #### [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - Nahamsec Github
 	- #### [Resources for Beginner Bug Bounty Hunters - Basics](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/basics.md) - Nahamsec Github
 	- #### [Resources for Beginner Bug Bounty Hunters - Labs Setup](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/setup.md) - Nahamsec Github
@@ -296,6 +297,7 @@ For providing some amazing resources!
 
 ## Amazing Sites
 
+- #### [TheHacker.recipes](https://www.thehacker.recipes/)
 - #### [PentesterLab Bootcamp](https://pentesterlab.com/bootcamp) - Pentesterlab
 - #### [W3rni0 Awesome Resources](https://github.com/W3rni0/W3rni0-awesome-resources) - W3rni0 Github
 - #### [Programming Tasks (with solutions in all languages)](https://rosettacode.org/wiki/Category:Programming_Tasks) - Rosettacode
@@ -459,7 +461,11 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
    ### Windows and Active Directory Hacking
   
+   - #### [Certified_Pre-Owned.pdf](https://www.specterops.io/assets/resources/Certified_Pre-Owned.pdf) - Spectertops.io
+   - #### [AD Recon and Movement Tricks](https://www.thehacker.recipes/ad/recon) - TheHacker.recipes
+   - #### [Persistence](https://www.thehacker.recipes/ad/persistence)
    - #### [[Thread] Kerberos basics & (ab)use of Certificates within Active Directory (i.e. AD CS and PKINIT)](https://twitter.com/_nwodtuhs/status/1451510341041594377?s=20) - Shutdown (Charlie BROMBERG) Twitter
+   	- #### [TheReaderApp post of the Above](https://threadreaderapp.com/thread/1451510341041594377.html) - thereaderapp.com
    - #### [Attacking Active Directory](https://www.youtube.com/watch?v=Bm3mihQNGI4&list=PLDrNMcTNhhYqZj7WZt2GfNhBDqBnhW6AT) - Conda YouTube
    	- #### [How to Setup a Virtual Windows Active Directory Domain](https://www.youtube.com/watch?v=Bm3mihQNGI4) - Conda YouTube
    	- #### [Attacking Active Directory - Bloodhound](https://www.youtube.com/watch?v=aJqjH3MsbLM) - Conda YouTube
