@@ -459,6 +459,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
    ### Windows and Active Directory Hacking
   
+   - #### [[Thread] Kerberos basics & (ab)use of Certificates within Active Directory (i.e. AD CS and PKINIT)](https://twitter.com/_nwodtuhs/status/1451510341041594377?s=20) - Shutdown (Charlie BROMBERG) Twitter
    - #### [Attacking Active Directory](https://www.youtube.com/watch?v=Bm3mihQNGI4&list=PLDrNMcTNhhYqZj7WZt2GfNhBDqBnhW6AT) - Conda YouTube
    	- #### [How to Setup a Virtual Windows Active Directory Domain](https://www.youtube.com/watch?v=Bm3mihQNGI4) - Conda YouTube
    	- #### [Attacking Active Directory - Bloodhound](https://www.youtube.com/watch?v=aJqjH3MsbLM) - Conda YouTube
