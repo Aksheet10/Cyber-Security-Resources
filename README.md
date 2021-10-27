@@ -298,6 +298,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [TheHacker.recipes](https://www.thehacker.recipes/)
+- #### [Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources) - Zeyad-Azima Github
 - #### [PentesterLab Bootcamp](https://pentesterlab.com/bootcamp) - Pentesterlab
 - #### [W3rni0 Awesome Resources](https://github.com/W3rni0/W3rni0-awesome-resources) - W3rni0 Github
 - #### [Programming Tasks (with solutions in all languages)](https://rosettacode.org/wiki/Category:Programming_Tasks) - Rosettacode
