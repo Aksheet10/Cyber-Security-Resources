@@ -337,7 +337,9 @@ For providing some amazing resources!
 
 ---
 
-## Gitbooks
+## Gitbooks / Github.io
+
+### Github
 
 - #### [OSCP Useful Links](https://backdoorshell.gitbooks.io/oscp-useful-links/content/) - BackDoorShell.gitbooks
 - #### [The Read Team Handbook](https://kwcsec.gitbook.io/the-red-team-handbook/) - KwcSec.gitbook
@@ -346,6 +348,10 @@ For providing some amazing resources!
 - #### [What is AD101?](https://kvenkatraman10.gitbook.io/ad101/) - Kvenkatraman10.gitbook
 - #### [Certification Notes and Cheat Sheets](https://ferx.gitbook.io/wiki/) - Ferx.gitbook
 - #### [Red Team Notes 2.0](https://dmcxblue.gitbook.io/red-team-notes-2-0/) - DMCXBlue.gitbook
+
+### Github.io
+
+- #### [byt3bl33d3r](https://byt3bl33d3r.github.io/) - Github.io
 
 ---
 
