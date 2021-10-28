@@ -465,6 +465,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
   
    - #### [Certified_Pre-Owned.pdf](https://www.specterops.io/assets/resources/Certified_Pre-Owned.pdf) - Spectertops.io
    - #### [AD Recon and Movement Tricks](https://www.thehacker.recipes/ad/recon) - TheHacker.recipes
+   - #### [Practical Guide to NTLM Relaying in 2017 aka Getting a Foothold in 5 min](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html) - Byt3bl33d34.Github.io
    - #### [Persistence](https://www.thehacker.recipes/ad/persistence)
    - #### [[Thread] Kerberos basics & (ab)use of Certificates within Active Directory (i.e. AD CS and PKINIT)](https://twitter.com/_nwodtuhs/status/1451510341041594377?s=20) - Shutdown (Charlie BROMBERG) Twitter
    	- #### [TheReaderApp post of the Above](https://threadreaderapp.com/thread/1451510341041594377.html) - thereaderapp.com
