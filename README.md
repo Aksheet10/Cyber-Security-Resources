@@ -180,7 +180,7 @@ For providing some amazing resources!
 - #### [Web Application Ethical Hacking - Penetration Testing Course for Beginners](https://www.youtube.com/watch?v=X4eRbHgRawI)
 - #### [Burp Suite Essentials](https://www.youtube.com/playlist?list=PLoX0sUafNGbH9bmbIANk3D50FNUmuJIF3)
 - #### [Portswigger Web-Learning Path](https://portswigger.net/web-security/learning-path)
-- #### [Template Injection Workshop](https://gosecure.github.io/template-injection-workshop/#0)
+- #### [Template Injection Workshop](https://gosecure.github.io/template-injection-workshop/#0) - Gosecure.Github
 - #### [OWASP's Top Ten Vulns (By Night and Skelli)](https://docs.google.com/presentation/d/1Hnn9PSs7zvtQyEFfxTvlQLbDhc0Jr5KaQwp0gw3anXM/edit#slide=id.g708a6ee8a1_0_46)
 - #### [Introduction to Web Application Hacking OWASP Top 10](https://cybrotacademy.com/course/introduction-to-web-application-hacking-owasp-top-10/)
 
@@ -190,18 +190,18 @@ For providing some amazing resources!
 
 - #### [Pwn College ](https://pwn.college/modules/intro)
 - #### [ROP Emporium](https://ropemporium.com/) - Learn return-oriented programming through a series of challenges.
-- #### [GuyInATuxedo Nightmare](https://guyinatuxedo.github.io/index.html)
-- #### [PWN Land](https://github.com/D4mianWayne/PwnLand)
-- #### [Buffer Overflow Series(Heath Adams)](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
-- #### [Buffer Overflow Guide](https://github.com/johnjhacking/Buffer-Overflow-Guide)
-- #### [How2Heap](https://github.com/shellphish/how2heap)
-- #### [OmegaVoid Blogs on BinExp BOF](https://omega-void.github.io/binexp-corner-1-bofs.html)
-- #### [Binary Exploitation for beginners](https://tc.gts3.org/cs6265/2019/tut/tut01-warmup1.html)
-- #### [Exploit Development Learning Roadmap](https://www.reddit.com/r/ExploitDev/comments/7zdrzc/exploit_development_learning_roadmap/)
-- #### [Modern Binary Exploitation](https://github.com/RPISEC/MBE)
-- #### [Windows Binary Course (with videos)](https://github.com/ashemery/exploitation-course)
-- #### [Exploit Development Learning resources](https://kalitut.com/exploit-development-resources/)
-- #### [Windows Exploit Development - SecuritySift](https://www.securitysift.com/windows-exploit-development-part-1-basics/)
+- #### [GuyInATuxedo Nightmare](https://guyinatuxedo.github.io/index.html) - Guyinatuxedo.github
+- #### [PWN Land](https://github.com/D4mianWayne/PwnLand) - D4mianWayne Github
+- #### [Buffer Overflow Series](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G) - Heath Adams Youtube
+- #### [Buffer Overflow Guide](https://github.com/johnjhacking/Buffer-Overflow-Guide) - Johnjhacking Github
+- #### [How2Heap](https://github.com/shellphish/how2heap) - Sellphish Github
+- #### [OmegaVoid Blogs on BinExp BOF](https://omega-void.github.io/binexp-corner-1-bofs.html) - OmegaVoid.github
+- #### [Binary Exploitation for beginners](https://tc.gts3.org/cs6265/2019/tut/tut01-warmup1.html) - tc.gts3.org
+- #### [Exploit Development Learning Roadmap](https://www.reddit.com/r/ExploitDev/comments/7zdrzc/exploit_development_learning_roadmap/) - Redit
+- #### [Modern Binary Exploitation](https://github.com/RPISEC/MBE) - RPISEC Github
+- #### [Windows Binary Course (with videos)](https://github.com/ashemery/exploitation-course) - Ashemery Github
+- #### [Exploit Development Learning resources](https://kalitut.com/exploit-development-resources/) - Kalitut.com
+- #### [Windows Exploit Development - SecuritySift](https://www.securitysift.com/windows-exploit-development-part-1-basics/) - SecuritySift.com
 - #### [Crackmes](https://crackmes.one) - Thanks to [Dasith](https://github.com/dasithsv)
 
 
@@ -339,7 +339,7 @@ For providing some amazing resources!
 
 ## Gitbooks / Github.io
 
-### Github
+### Gitbook
 
 - #### [OSCP Useful Links](https://backdoorshell.gitbooks.io/oscp-useful-links/content/) - BackDoorShell.gitbooks
 - #### [The Read Team Handbook](https://kwcsec.gitbook.io/the-red-team-handbook/) - KwcSec.gitbook
@@ -352,6 +352,19 @@ For providing some amazing resources!
 ### Github.io
 
 - #### [byt3bl33d3r](https://byt3bl33d3r.github.io/) - Github.io
+- #### [Xapax Security Notes](https://xapax.github.io/security/) - Github.io
+- #### [Gosecure](https://gosecure.github.io/template-injection-workshop/#0) - Github.io
+- #### [GuyInATuxedo Nightmare](https://guyinatuxedo.github.io/index.html) - Github.io
+- #### [OmegaVoid](https://omega-void.github.io/) - Github.io
+- #### [Swanandx](https://swanandx.github.io/blog) - Github.io
+- #### [Kileak](https://kileak.github.io/) - Github.io
+- #### [D4mianwayne](https://d4mianwayne.github.io/) - Github.io
+- #### [0xpat](https://0xpat.github.io/) - Github.io
+- #### [S3cur3th1ssh1t](https://s3cur3th1ssh1t.github.io/) - Github.io
+- #### [0xHop](https://0xhop.github.io/) - Github.io
+- #### [GTFOBins](https://gtfobins.github.io/) - Github.io
+- #### [GCHQ (CyberChef)](https://gchq.github.io/CyberChef/) - Github.io
+- #### [Razvioverflow](https://razvioverflow.github.io/starthacking) - Github.io
 
 ---
 
