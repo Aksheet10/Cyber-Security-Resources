@@ -216,7 +216,7 @@ For providing some amazing resources!
    - #### [CTF101 Bin-Exp Buffer Overflow](https://ctf101.org/binary-exploitation/buffer-overflow/)
    - #### [Skull Security PWN CTF walkthroughs](https://blog.skullsecurity.org/category/ctfs)
    - #### [Google project zero blog](https://googleprojectzero.blogspot.com/)
-   - #### 
+
 
   ### Youtube :-
 
