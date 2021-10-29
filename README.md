@@ -456,6 +456,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 	### Bash
 	
 	- #### [Bash Programming guide](https://guide.bash.academy/) - Guid.bash.academy
+	- #### [Bash Programing Complete Series](https://www.youtube.com/playlist?list=PL_c9BZzLwBRLKiaJzaY4xdiBVz7j5fHgB) - Caleb Curry YouTube
 
 --- 
 
