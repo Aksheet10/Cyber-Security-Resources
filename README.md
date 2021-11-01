@@ -366,13 +366,14 @@ For providing some amazing resources!
 - #### [GTFOBins](https://gtfobins.github.io/) - Github.io
 - #### [GCHQ (CyberChef)](https://gchq.github.io/CyberChef/) - Github.io
 - #### [Razvioverflow](https://razvioverflow.github.io/starthacking) - Github.io
+- #### [Fumenoid](https://fumenoid.github.io/) - Github.io
 
 ---
 
-## Pivoting Guides
+## Pivoting / Port Forwarding Guides
 
 (These can also be very helpfull for eCPPTv2)
-
+- #### [Port Forwarding](fumenoid.github.io/posts/port-forwarding) - Fumenoid Github.io
 - #### [Port Forwarding/SSH Tunneling](https://guide.offsecnewbie.com/port-forwarding-ssh-tunneling) - Guide.OffsecNewbie
 - #### [State of the Art of Network Pivoting](https://blog.raw.pm/en/state-of-the-art-of-network-pivoting-in-2019/)
 - #### [Read Team Handbook Pivoting](https://kwcsec.gitbook.io/the-red-team-handbook/techniques/defense-evasion/minimization/pivoting) - KwcSec
