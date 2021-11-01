@@ -37,7 +37,7 @@ For providing some amazing resources!
 - [Forensics](#forensics)
 - [Amazing Training Sites](#amazing-sites)
 - [Gitooks / Github.io](#gitbooks--githubio)
-- [Pivoting Guides](#pivoting-guides)
+- [Pivoting / Port Forwarding Guides](pivoting--port-forwarding-guides)
 - [Docker](#docker)
 - [Programming](#programming)
      - [Python](#python)
@@ -392,8 +392,8 @@ For providing some amazing resources!
 
 ## Docker
 
-- #### [The Docker Handbook (docker-handbook.farhan.dev)](https://docker-handbook.farhan.dev/) - Docker-handbook.farhaan
-- #### [Docker For Pentesters - blg.ropnop](https://blog.ropnop.com/docker-for-pentesters/) - Blog.Ropnop
+- #### [The Docker Handbook](https://docker-handbook.farhan.dev/) - Docker-handbook.farhaan.dev
+- #### [Docker For Pentesters](https://blog.ropnop.com/docker-for-pentesters/) - Blog.Ropnop
 - #### [Docker Getting Started](https://hub.docker.com/r/docker/getting-started) - Docker Hub
 - #### [Docker 101 Tutorial](https://www.docker.com/101-tutorial) - Docker.com
 - #### [University of Helsinki DevOps with Docker course](https://devopswithdocker.com/) - Devopswithdocker.co,
