@@ -299,6 +299,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [TheHacker.recipes](https://www.thehacker.recipes/)
+- #### [0xSP.com](https://0xsp.com/)
 - #### [Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources) - Zeyad-Azima Github
 - #### [PentesterLab Bootcamp](https://pentesterlab.com/bootcamp) - Pentesterlab
 - #### [W3rni0 Awesome Resources](https://github.com/W3rni0/W3rni0-awesome-resources) - W3rni0 Github
@@ -486,6 +487,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    ### Windows and Active Directory Hacking
   
    - #### [Certified_Pre-Owned.pdf](https://www.specterops.io/assets/resources/Certified_Pre-Owned.pdf) - Spectertops.io
+   - #### [Active Directory Attack Defense](https://0xsp.com/offensive/active-directory-attack-defense) - OxSP.com
    - #### [AD Recon and Movement Tricks](https://www.thehacker.recipes/ad/recon) - TheHacker.recipes
    - #### [Practical Guide to NTLM Relaying in 2017 aka Getting a Foothold in 5 min](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html) - Byt3bl33d34.Github.io
    - #### [Persistence](https://www.thehacker.recipes/ad/persistence)
