@@ -244,11 +244,13 @@ For providing some amazing resources!
      - #### [Privilege Escalation](https://book.hacktricks.xyz/linux-unix/privilege-escalation) - Book.hacktricks
      - #### [Guide - Linux Privilege Escalation](https://payatu.com/guide-linux-privilege-escalation) - Payatu.com
      - #### [Linux Privilege Escalation Checklist](https://github.com/netbiosX/Checklists/blob/master/Linux-Privilege-Escalation.md) - NetBiosX Github
+     - #### [Linux Privilege Escalation Resources](https://github.com/TCM-Course-Resources/Linux-Privilege-Escalation-Resources) - TCM Course Resources Github
      - #### [Privilege Escalation - Linux](https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_-_linux.html) - Sushant747 Gitbooks
 
 - ### Windows
     - #### [FuzzSecurity Windows Privilege Escalation](http://www.fuzzysecurity.com/tutorials/16.html)
     - #### [The Read Team Guide - Privilege Escalation](https://kwcsec.gitbook.io/the-red-team-handbook/techniques/privilege-escalation) - KwcSec.github
+    - #### [Windows Privilege Escalation Resources](https://github.com/TCM-Course-Resources/Windows-Privilege-Escalation-Resources) - TCM Course Resources Github
     - #### [Privilege Escalation Windows](https://guide.offsecnewbie.com/privilege-escalation/windows-pe) - Guide.OffsecNewbie
 
 ---
