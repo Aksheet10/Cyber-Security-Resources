@@ -242,6 +242,9 @@ For providing some amazing resources!
      	- #### [OSCP - Linux Privilege Escalation Methodology](https://www.youtube.com/watch?v=VpNaPAh93vE)
 	- #### [Linux Privilege Escalation - Docker Group](https://www.youtube.com/watch?v=pRBj2dm4CDU)
      - #### [Privilege Escalation](https://book.hacktricks.xyz/linux-unix/privilege-escalation) - Book.hacktricks
+     - #### [Guide - Linux Privilege Escalation](https://payatu.com/guide-linux-privilege-escalation) - Payatu.com
+     - #### [Linux Privilege Escalation Checklist](https://github.com/netbiosX/Checklists/blob/master/Linux-Privilege-Escalation.md) - NetBiosX Github
+     - #### [Privilege Escalation - Linux](https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_-_linux.html) - Sushant747 Gitbooks
 
 - ### Windows
     - #### [FuzzSecurity Windows Privilege Escalation](http://www.fuzzysecurity.com/tutorials/16.html)
@@ -350,6 +353,7 @@ For providing some amazing resources!
 - #### [What is AD101?](https://kvenkatraman10.gitbook.io/ad101/) - Kvenkatraman10.gitbook
 - #### [Certification Notes and Cheat Sheets](https://ferx.gitbook.io/wiki/) - Ferx.gitbook
 - #### [Red Team Notes 2.0](https://dmcxblue.gitbook.io/red-team-notes-2-0/) - DMCXBlue.gitbook
+- #### [Sushant747](https://sushant747.gitbooks.io/total-oscp-guide/content/) - Gitbooks.io
 
 ### Github.io
 
