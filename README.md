@@ -151,6 +151,7 @@ For providing some amazing resources!
 ## Web-Pentesting
 
 - #### [Web-Services Recon](https://www.thehacker.recipes/web-services/recon) - Thehacker.recipes
+- #### [Web-Services Hacking Guides](https://sushant747.gitbooks.io/total-oscp-guide/content/web-services.html) - Sushant747.gitbooks
 - #### [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - Nahamsec Github
 	- #### [Resources for Beginner Bug Bounty Hunters - Basics](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/basics.md) - Nahamsec Github
 	- #### [Resources for Beginner Bug Bounty Hunters - Labs Setup](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/setup.md) - Nahamsec Github
@@ -357,7 +358,8 @@ For providing some amazing resources!
 - #### [What is AD101?](https://kvenkatraman10.gitbook.io/ad101/) - Kvenkatraman10.gitbook
 - #### [Certification Notes and Cheat Sheets](https://ferx.gitbook.io/wiki/) - Ferx.gitbook
 - #### [Red Team Notes 2.0](https://dmcxblue.gitbook.io/red-team-notes-2-0/) - DMCXBlue.gitbook
-- #### [Sushant747](https://sushant747.gitbooks.io/total-oscp-guide/content/) - Gitbooks.io
+- #### [Sushant747](https://sushant747.gitbooks.io/total-oscp-guide/content/) - Sushant747.gitbooks
+- #### [D00mfist1](https://d00mfist1.gitbooks.io/ctf/content/) - D00mfist1.gitbooks
 
 ### Github.io
 
@@ -383,6 +385,7 @@ For providing some amazing resources!
 
 (These can also be very helpfull for eCPPTv2)
 - #### [Port Forwarding](fumenoid.github.io/posts/port-forwarding) - Fumenoid Github.io
+- #### [Port Forwarding and Tunneling](https://sushant747.gitbooks.io/total-oscp-guide/content/port_forwarding_and_tunneling.html) - Sushasnt747 Gitbooks
 - #### [Port Forwarding/SSH Tunneling](https://guide.offsecnewbie.com/port-forwarding-ssh-tunneling) - Guide.OffsecNewbie
 - #### [State of the Art of Network Pivoting](https://blog.raw.pm/en/state-of-the-art-of-network-pivoting-in-2019/)
 - #### [Read Team Handbook Pivoting](https://kwcsec.gitbook.io/the-red-team-handbook/techniques/defense-evasion/minimization/pivoting) - KwcSec
