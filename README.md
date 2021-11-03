@@ -204,6 +204,7 @@ For providing some amazing resources!
 - #### [Exploit Development Learning resources](https://kalitut.com/exploit-development-resources/) - Kalitut.com
 - #### [Windows Exploit Development - SecuritySift](https://www.securitysift.com/windows-exploit-development-part-1-basics/) - SecuritySift.com
 - #### [Crackmes](https://crackmes.one) - Thanks to [Dasith](https://github.com/dasithsv)
+- #### [Exploit Dev Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Exploit_Dev.md) - Rmusser01 Github
 
 
 #### Thanks to Swanandx for the resources below. His [Website](https://swanandx.github.io/). His [Github](https://bit.ly/3hziKWH)
@@ -304,6 +305,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [TheHacker.recipes](https://www.thehacker.recipes/)
+- #### [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - Rmuser01 Github
 - #### [0xSP.com](https://0xsp.com/)
 - #### [Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources) - Zeyad-Azima Github
 - #### [PentesterLab Bootcamp](https://pentesterlab.com/bootcamp) - Pentesterlab
@@ -554,6 +556,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
 Thank's to [Jayy](https://github.com/Jayy001) and [MamaMouse](https://keybase.io/msmouse/) for a lot of these resources
 
+- #### [OSINT Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Osint.md) - Rmusser01 Github 
 - #### [THECYBERINST OSINT challenge](https://courses.thecyberinst.org/courses/osint-challenge)
 - #### [OSINT Framework MindMap](https://osintframework.com)
 - #### [Sourcing game 1](https://sourcing.games/game-1/)
