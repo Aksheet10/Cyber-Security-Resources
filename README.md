@@ -385,6 +385,7 @@ For providing some amazing resources!
 
 (These can also be very helpfull for eCPPTv2)
 - #### [Port Forwarding](fumenoid.github.io/posts/port-forwarding) - Fumenoid Github.io
+- #### [Metasploit Tutorials - Pivoting into Internal Subnets](https://www.youtube.com/watch?v=c0XiaNAkjJA) - Metasploitation YouTube
 - #### [Port Forwarding and Tunneling](https://sushant747.gitbooks.io/total-oscp-guide/content/port_forwarding_and_tunneling.html) - Sushasnt747 Gitbooks
 - #### [Port Forwarding/SSH Tunneling](https://guide.offsecnewbie.com/port-forwarding-ssh-tunneling) - Guide.OffsecNewbie
 - #### [State of the Art of Network Pivoting](https://blog.raw.pm/en/state-of-the-art-of-network-pivoting-in-2019/)
