@@ -480,6 +480,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
    ### PowerShell 
    
+   - #### [Adversary Tactics: PowerShell](https://github.com/specterops/at-ps) - Specterops Github
    - #### [PowerShell for Pentesters by The Mayor](https://www.youtube.com/playlist?list=PLJQHPJLj_SQatUsJy3O4k-VQlllquDmDr) - YouTube
    - #### [Powershell for Pentesters by PenTester Academy](https://www.youtube.com/playlist?list=PLzKIBgD3ky20006eJjHXvx9MIYM7nzQlp) - YouTube
    - #### [PowerShell 101 by Mike F Robbins](https://leanpub.com/powershell101) - Leanpub
