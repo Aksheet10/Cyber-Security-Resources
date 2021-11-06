@@ -65,6 +65,7 @@ For providing some amazing resources!
  ## Intro To CyberSec
 
 - #### [Learning Path for Beginners](https://mrashleyball.com/learning-path-for-beginner-hacker/) - Mrashleyball
+- #### [Free Security Training](https://www.varonis.com/free-security-training/) - Varonis
 - #### [PentesterLab Bootcamp](https://pentesterlab.com/bootcamp) - Pentesterlab
 - #### [Penetration Testing Bootcamp](https://www.youtube.com/playlist?list=PLBf0hzazHTGOepimcP15eS6Y-aR4m6ql3) - HackerSploit YouTube (55 Videos)
 - #### [Beginning in Offensive Security Part 1](https://docs.google.com/presentation/d/1viL2C0yr2Beeb6JHaTJa6_qsZj2x8NMWsqol8xrEJV8/edit#slide=id.p) - [Mrs_Skelli](https://skelli.win)
@@ -306,6 +307,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [TheHacker.recipes](https://www.thehacker.recipes/)
+- #### [Free Security Training](https://www.varonis.com/free-security-training/) - Varonis
 - #### [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - Rmuser01 Github
 - #### [0xSP.com](https://0xsp.com/)
 - #### [Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources) - Zeyad-Azima Github
@@ -481,6 +483,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    ### PowerShell 
    
    - #### [Adversary Tactics: PowerShell](https://github.com/specterops/at-ps) - Specterops Github
+   - #### [PowerShell Course](https://info.varonis.com/course/powershell) - info.varonis.com
    - #### [PowerShell for Pentesters by The Mayor](https://www.youtube.com/playlist?list=PLJQHPJLj_SQatUsJy3O4k-VQlllquDmDr) - YouTube
    - #### [Powershell for Pentesters by PenTester Academy](https://www.youtube.com/playlist?list=PLzKIBgD3ky20006eJjHXvx9MIYM7nzQlp) - YouTube
    - #### [PowerShell 101 by Mike F Robbins](https://leanpub.com/powershell101) - Leanpub
