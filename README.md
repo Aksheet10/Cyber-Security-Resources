@@ -269,6 +269,12 @@ For providing some amazing resources!
 ## Evasion And Malware
 
 - #### [BlackCloud - infosec and other stuffs](https://blackcloud.me/)
+- #### [Introduction to Sandbox Evasion and AMSI Bypasses - Jake Krasnov, Anthony Rose, Vincent Rose](https://www.youtube.com/watch?v=F_BvtXzH4a4) - YouTube BC Security
+	- #### [Hack to Basics – Adapting Exploit Frameworks to Evade Microsoft ATP](https://github.com/BC-SECURITY/DEFCON27) - BC-SECURITY Github
+- #### [How to bypass AMSI and execute ANY malicious Powershell code](https://0x00-0x00.github.io/research/2018/10/28/How-to-bypass-AMSI-and-Execute-ANY-malicious-powershell-code.html) - 0x00-0x00.github
+- #### [AMSI Fail](https://amsi.fail/) - amsi.fail
+- #### [Evading Detection: A Beginner's Guide to Obfuscation](https://www.youtube.com/watch?v=lP2KF7_Kwxk) - YouTube BC-Security
+- #### [Bypass AMSI by Manual Modification](https://s3cur3th1ssh1t.github.io/Bypass_AMSI_by_manual_modification/) - s3cur3th1ssh1t.github
 - #### [Defense Evasion](https://dmcxblue.gitbook.io/red-team-notes-2-0/red-team-techniques/defense-evasion) - DMCXBlue.gitbook
 - #### [Defense Evasion](https://hunter2.gitbook.io/darthsidious/defense-evasion/bypassing-applocker-and-powershell-contstrained-language-mode)
 - #### [Art of Anti Detection 1 – Introduction to AV & Detection Techniques](https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/) - Pentest.blog
@@ -281,7 +287,6 @@ For providing some amazing resources!
 - #### [Windows Defender AV Evasion](https://www.purpl3f0xsecur1ty.tech/2021/03/30/av_evasion.html) - Purpl3f0xsecur1ty
 - #### [Write a Crypter in any Language](https://netsec.expert/posts/write-a-crypter-in-any-language/) - Netsec.expert
 - #### [Bypass AV Dynamics](https://blog.sevagas.com/IMG/pdf/BypassAVDynamics.pdf) -  blog.Sevages
-- #### [Hack to Basics – Adapting Exploit Frameworks to Evade Microsoft ATP](https://github.com/BC-SECURITY/DEFCON27) - BC-SECURITY Github
 - #### [Decon27 C# Workshop](https://github.com/mvelazc0/defcon27_csharp_workshop) - Mvelazc0 Github
 - #### [Weaponising C# Fundamentals](https://github.com/fozavci/WeaponisingCSharp-Fundamentals/) - Fozavci
 
@@ -307,6 +312,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [TheHacker.recipes](https://www.thehacker.recipes/)
+- #### [BC-Security Videos](https://www.youtube.com/c/BCSecurity1/videos) - YouTube
 - #### [Free Security Training](https://www.varonis.com/free-security-training/) - Varonis
 - #### [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - Rmuser01 Github
 - #### [0xSP.com](https://0xsp.com/)
@@ -366,6 +372,8 @@ For providing some amazing resources!
 ### Github.io
 
 - #### [byt3bl33d3r](https://byt3bl33d3r.github.io/) - Github.io
+- #### [0x00-0x00](https://0x00-0x00.github.io/) Github.io
+- #### [s3cur3th1ssh1t](https://s3cur3th1ssh1t.github.io) - Github.io
 - #### [Xapax Security Notes](https://xapax.github.io/security/) - Github.io
 - #### [Gosecure](https://gosecure.github.io/template-injection-workshop/#0) - Github.io
 - #### [GuyInATuxedo Nightmare](https://guyinatuxedo.github.io/index.html) - Github.io
