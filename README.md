@@ -372,6 +372,7 @@ For providing some amazing resources!
 ### Github.io
 
 - #### [byt3bl33d3r](https://byt3bl33d3r.github.io/) - Github.io
+- #### [Wadcoms](https://wadcoms.github.io/) - Github.io
 - #### [0x00-0x00](https://0x00-0x00.github.io/) Github.io
 - #### [s3cur3th1ssh1t](https://s3cur3th1ssh1t.github.io) - Github.io
 - #### [Xapax Security Notes](https://xapax.github.io/security/) - Github.io
