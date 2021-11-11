@@ -142,10 +142,10 @@ For providing some amazing resources!
 
 ## Operating Systems
 
-- #### [Introduction To Operating Systems offered By Georgia Tech University](https://www.udacity.com/course/introduction-to-operating-systems--ud923) [Free Course]
-- #### [Advanced Operating Systems course offered By Georgia Tech University](https://www.udacity.com/course/advanced-operating-systems--ud189) [Free Course]
-- #### [GT - Refresher - Advanced OS offered by Georgia Institute of Technology](https://www.udacity.com/course/gt-refresher-advanced-os--ud098) [Free Course] 
-
+- #### [Introduction To Operating Systems offered By Georgia Tech University](https://www.udacity.com/course/introduction-to-operating-systems--ud923) [Free Course] - Udacity
+- #### [Advanced Operating Systems course offered By Georgia Tech University](https://www.udacity.com/course/advanced-operating-systems--ud189) [Free Course] - Udacity
+- #### [GT - Refresher - Advanced OS offered by Georgia Institute of Technology](https://www.udacity.com/course/gt-refresher-advanced-os--ud098) [Free Course] - Udacity
+- #### [Gatech Sslab CS 3210: Operating Systems](https://tc.gts3.org/cs3210/) - TC.gts3.org
 
 ---
 
