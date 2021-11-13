@@ -247,11 +247,13 @@ For providing some amazing resources!
      - #### [Privilege Escalation](https://book.hacktricks.xyz/linux-unix/privilege-escalation) - Book.hacktricks
      - #### [Guide - Linux Privilege Escalation](https://payatu.com/guide-linux-privilege-escalation) - Payatu.com
      - #### [Linux Privilege Escalation Checklist](https://github.com/netbiosX/Checklists/blob/master/Linux-Privilege-Escalation.md) - NetBiosX Github
+     - #### [Linux Priv Esc](http://pwnwiki.io/#!privesc/linux/index.md) - PWNWiki.io
      - #### [Linux Privilege Escalation Resources](https://github.com/TCM-Course-Resources/Linux-Privilege-Escalation-Resources) - TCM Course Resources Github
      - #### [Privilege Escalation - Linux](https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_-_linux.html) - Sushant747 Gitbooks
 
 - ### Windows
     - #### [FuzzSecurity Windows Privilege Escalation](http://www.fuzzysecurity.com/tutorials/16.html)
+    - #### [Windows Priv Esc](http://pwnwiki.io/#!privesc/windows/index.md) - PWNWiki.io     
     - #### [The Read Team Guide - Privilege Escalation](https://kwcsec.gitbook.io/the-red-team-handbook/techniques/privilege-escalation) - KwcSec.github
     - #### [Windows Privilege Escalation Resources](https://github.com/TCM-Course-Resources/Windows-Privilege-Escalation-Resources) - TCM Course Resources Github
     - #### [Privilege Escalation Windows](https://guide.offsecnewbie.com/privilege-escalation/windows-pe) - Guide.OffsecNewbie
@@ -312,6 +314,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [TheHacker.recipes](https://www.thehacker.recipes/)
+- #### [PWNWiki.io](http://pwnwiki.io/#!index.md)
 - #### [BC-Security Videos](https://www.youtube.com/c/BCSecurity1/videos) - YouTube
 - #### [Free Security Training](https://www.varonis.com/free-security-training/) - Varonis
 - #### [Infosec_Reference](https://github.com/rmusser01/Infosec_Reference) - Rmuser01 Github
@@ -372,6 +375,7 @@ For providing some amazing resources!
 ### Github.io
 
 - #### [byt3bl33d3r](https://byt3bl33d3r.github.io/) - Github.io
+- #### [PWNWiki](https://pwnwiki.github.io) - Github.io
 - #### [Wadcoms](https://wadcoms.github.io/) - Github.io
 - #### [0x00-0x00](https://0x00-0x00.github.io/) Github.io
 - #### [s3cur3th1ssh1t](https://s3cur3th1ssh1t.github.io) - Github.io
@@ -396,6 +400,8 @@ For providing some amazing resources!
 
 (These can also be very helpfull for eCPPTv2)
 - #### [Port Forwarding](fumenoid.github.io/posts/port-forwarding) - Fumenoid Github.io
+- #### [Windows Pivoting Commands](http://pwnwiki.io/#!pivoting/windows/index.md) - PWNWiki.io
+- #### [Pivoting on a Penetration Test](http://pwnwiki.io/#!pivoting/linux/index.md) - PWNWiki.io
 - #### [Metasploit Tutorials - Pivoting into Internal Subnets](https://www.youtube.com/watch?v=c0XiaNAkjJA) - Metasploitation YouTube
 - #### [Port Forwarding and Tunneling](https://sushant747.gitbooks.io/total-oscp-guide/content/port_forwarding_and_tunneling.html) - Sushasnt747 Gitbooks
 - #### [Port Forwarding/SSH Tunneling](https://guide.offsecnewbie.com/port-forwarding-ssh-tunneling) - Guide.OffsecNewbie
@@ -492,6 +498,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    ### PowerShell 
    
    - #### [Adversary Tactics: PowerShell](https://github.com/specterops/at-ps) - Specterops Github
+   - #### [List_Local_Admins_Remote_Hosts.ps1](https://github.com/mubix/post-exploitation/blob/master/scripts/powershell/list_local_admins_remote_hosts.ps1) - Mubix Github
    - #### [PowerShell Course](https://info.varonis.com/course/powershell) - info.varonis.com
    - #### [PowerShell for Pentesters by The Mayor](https://www.youtube.com/playlist?list=PLJQHPJLj_SQatUsJy3O4k-VQlllquDmDr) - YouTube
    - #### [Powershell for Pentesters by PenTester Academy](https://www.youtube.com/playlist?list=PLzKIBgD3ky20006eJjHXvx9MIYM7nzQlp) - YouTube
@@ -512,8 +519,11 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    ### Windows and Active Directory Hacking
   
    - #### [Certified_Pre-Owned.pdf](https://www.specterops.io/assets/resources/Certified_Pre-Owned.pdf) - Spectertops.io
+   - #### [Windows Post-Exploitation Command List](https://docs.google.com/document/d/1U10isynOpQtrIK6ChuReu-K1WHTJm4fgG3joiuz43rw/edit#heading=h.dvy2544x9nea) - Docs.google
+   - #### [Windows Priv Esc](http://pwnwiki.io/#!privesc/windows/index.md) - PWNWiki.io
    - #### [Active Directory Attack Defense](https://0xsp.com/offensive/active-directory-attack-defense) - OxSP.com
    - #### [AD Recon and Movement Tricks](https://www.thehacker.recipes/ad/recon) - TheHacker.recipes
+   - #### [Post-Exploitation - Mass Mimikatz](https://github.com/mubix/post-exploitation/tree/master/scripts/mass_mimikatz) - Mubix Github
    - #### [Practical Guide to NTLM Relaying in 2017 aka Getting a Foothold in 5 min](https://byt3bl33d3r.github.io/practical-guide-to-ntlm-relaying-in-2017-aka-getting-a-foothold-in-under-5-minutes.html) - Byt3bl33d34.Github.io
    - #### [Persistence](https://www.thehacker.recipes/ad/persistence)
    - #### [[Thread] Kerberos basics & (ab)use of Certificates within Active Directory (i.e. AD CS and PKINIT)](https://twitter.com/_nwodtuhs/status/1451510341041594377?s=20) - Shutdown (Charlie BROMBERG) Twitter
