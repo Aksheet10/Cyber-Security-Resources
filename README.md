@@ -244,6 +244,7 @@ For providing some amazing resources!
      - #### Conda YouTube
      	- #### [OSCP - Linux Privilege Escalation Methodology](https://www.youtube.com/watch?v=VpNaPAh93vE)
 	- #### [Linux Privilege Escalation - Docker Group](https://www.youtube.com/watch?v=pRBj2dm4CDU)
+     - #### [Linux Exploit Suggester 2](https://github.com/jondonas/linux-exploit-suggester-2) - Github
      - #### [Privilege Escalation](https://book.hacktricks.xyz/linux-unix/privilege-escalation) - Book.hacktricks
      - #### [Guide - Linux Privilege Escalation](https://payatu.com/guide-linux-privilege-escalation) - Payatu.com
      - #### [Linux Privilege Escalation Checklist](https://github.com/netbiosX/Checklists/blob/master/Linux-Privilege-Escalation.md) - NetBiosX Github
@@ -253,6 +254,7 @@ For providing some amazing resources!
 
 - ### Windows
     - #### [FuzzSecurity Windows Privilege Escalation](http://www.fuzzysecurity.com/tutorials/16.html)
+    - #### [Living Off The Land Binaries, Scripts and Libraries](https://lolbas-project.github.io/) - lolbas-project.github
     - #### [Windows Priv Esc](http://pwnwiki.io/#!privesc/windows/index.md) - PWNWiki.io     
     - #### [The Read Team Guide - Privilege Escalation](https://kwcsec.gitbook.io/the-red-team-handbook/techniques/privilege-escalation) - KwcSec.github
     - #### [Windows Privilege Escalation Resources](https://github.com/TCM-Course-Resources/Windows-Privilege-Escalation-Resources) - TCM Course Resources Github
@@ -314,6 +316,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [TheHacker.recipes](https://www.thehacker.recipes/)
+- #### [Lolbas-project.github.io](https://lolbas-project.github.io/)
 - #### [PWNWiki.io](http://pwnwiki.io/#!index.md)
 - #### [BC-Security Videos](https://www.youtube.com/c/BCSecurity1/videos) - YouTube
 - #### [Free Security Training](https://www.varonis.com/free-security-training/) - Varonis
@@ -374,6 +377,7 @@ For providing some amazing resources!
 
 ### Github.io
 
+- #### [Lolbas-project](https://lolbas-project.github.io/) - Github.io
 - #### [byt3bl33d3r](https://byt3bl33d3r.github.io/) - Github.io
 - #### [PWNWiki](https://pwnwiki.github.io) - Github.io
 - #### [Wadcoms](https://wadcoms.github.io/) - Github.io
