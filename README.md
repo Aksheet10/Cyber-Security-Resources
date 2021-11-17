@@ -241,6 +241,7 @@ For providing some amazing resources!
 - #### [Privilege Escalation](https://www.youtube.com/watch?v=VpNaPAh93vE&list=PLDrNMcTNhhYrBNZ_FdtMq-gLFQeUZFzWV) - Conda YouTube
 
 - ### Linux
+	- #### [Linnux Privilege Escalation Resources](https://sirensecurity.io/blog/linux-privilege-escalation-resources/) - SirenSecurity.io
      - #### Conda YouTube
      	- #### [OSCP - Linux Privilege Escalation Methodology](https://www.youtube.com/watch?v=VpNaPAh93vE)
 	- #### [Linux Privilege Escalation - Docker Group](https://www.youtube.com/watch?v=pRBj2dm4CDU)
@@ -253,6 +254,7 @@ For providing some amazing resources!
      - #### [Privilege Escalation - Linux](https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_-_linux.html) - Sushant747 Gitbooks
 
 - ### Windows
+    - #### [Windows Privilege Escalation Resources](https://sirensecurity.io/blog/windows-privilege-escalation-resources/) - SirenSecurity.io
     - #### [FuzzSecurity Windows Privilege Escalation](http://www.fuzzysecurity.com/tutorials/16.html)
     - #### [Living Off The Land Binaries, Scripts and Libraries](https://lolbas-project.github.io/) - lolbas-project.github
     - #### [Windows Priv Esc](http://pwnwiki.io/#!privesc/windows/index.md) - PWNWiki.io     
@@ -315,6 +317,7 @@ For providing some amazing resources!
 
 ## Amazing Sites
 
+- #### [SirenSecurity.io](https://sirensecurity.io/blog/home/)
 - #### [TheHacker.recipes](https://www.thehacker.recipes/)
 - #### [Lolbas-project.github.io](https://lolbas-project.github.io/)
 - #### [PWNWiki.io](http://pwnwiki.io/#!index.md)
@@ -522,6 +525,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
    ### Windows and Active Directory Hacking
   
+   - #### [Red Teaming Resources](https://sirensecurity.io/blog/red-teaming-resources/) - SirenSecurity.io
    - #### [Certified_Pre-Owned.pdf](https://www.specterops.io/assets/resources/Certified_Pre-Owned.pdf) - Spectertops.io
    - #### [Windows Post-Exploitation Command List](https://docs.google.com/document/d/1U10isynOpQtrIK6ChuReu-K1WHTJm4fgG3joiuz43rw/edit#heading=h.dvy2544x9nea) - Docs.google
    - #### [Windows Priv Esc](http://pwnwiki.io/#!privesc/windows/index.md) - PWNWiki.io
