@@ -6,7 +6,7 @@ DM Me on Discord if you want to add more resources or suggest some changes - **B
 
 Credits are also included for some google docs
 
-Thanks to 
+Thanks to
 - [Dasith](https://github.com/dasithsv)
 - [Swanand](https://swanandx.github.io/)
 - [Robin](https://github.com/d4mianwayne)
@@ -526,6 +526,8 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
    ### Windows and Active Directory Hacking
   
    - #### [Red Teaming Resources](https://sirensecurity.io/blog/red-teaming-resources/) - SirenSecurity.io
+   - #### [Deploy-Deception](https://www.labofapenetrationtester.com/2018/10/deploy-deception.html) - Labofapenetrationtester, Nikhil Mittal
+   - #### [Mimikatz](https://www.labofapenetrationtester.com/search/label/Mimikatz) - Labofapenetrationtester, Nikhil Mittal
    - #### [Certified_Pre-Owned.pdf](https://www.specterops.io/assets/resources/Certified_Pre-Owned.pdf) - Spectertops.io
    - #### [Windows Post-Exploitation Command List](https://docs.google.com/document/d/1U10isynOpQtrIK6ChuReu-K1WHTJm4fgG3joiuz43rw/edit#heading=h.dvy2544x9nea) - Docs.google
    - #### [Windows Priv Esc](http://pwnwiki.io/#!privesc/windows/index.md) - PWNWiki.io
