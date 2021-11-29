@@ -484,6 +484,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 	### C#
 	
 	- #### [Decon27 C# Workshop](https://github.com/mvelazc0/defcon27_csharp_workshop) - Mvelazc0 Github
+	- #### [Make System.Windows.Forms work in VS2019](https://www.youtube.com/watch?v=GiaFyAKvizs) - Kareem Sulthan Youtube
 	- #### [Installing DotNet and running C# codes on Linux](https://www.c-sharpcorner.com/article/hello-world-net-core-on-linux/)
 	- #### [Weaponising C# Fundamentals](https://github.com/fozavci/WeaponisingCSharp-Fundamentals/) - Fozavci
 	- #### [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens Microsoft.
