@@ -101,6 +101,7 @@ For providing some amazing resources!
     - #### [Network Layers and the Relationships Between Them](https://www.freecodecamp.org/news/osi-model-computer-networking-for-beginners)
     - #### [How Computers Work, How the Internet Works And Some Computer Security Basics](https://www.freecodecamp.org/news/computer-basics-for-absolute-beginners/)
 - #### [ITMASTERS Free Short Course Computer Network Fundamentals](https://itmasters.edu.au/free-short-course-computer-network-fundamentals/) and a free exam at the end.
+- #### [What is IP addressing? How IPv4 works| ipv4 vs ipv6 | 5 types of ip classes | public vs private ip](https://www.youtube.com/watch?v=aSZuzkC24XU) - IT k Funde YouTube
 - #### [An Introduction to Computer Networks - Second Edition](https://open.umn.edu/opentextbooks/textbooks/353) - open.umm.edu
 - #### [FREE CCNA 200-301. Complete Course. NetworkChuck 2021](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P)
 - #### [Cisoc Skillsforall Network Essentials](https://skillsforall.com/course/networking-essentials)
