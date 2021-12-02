@@ -596,6 +596,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 Thank's to [Jayy](https://github.com/Jayy001) and [MamaMouse](https://keybase.io/msmouse/) for a lot of these resources
 
 - #### [OSINT Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Osint.md) - Rmusser01 Github 
+- #### [Social Engineering Resources](https://twitter.com/0xnihalumar/status/1465570680930402305) - Nihal Umar (@0xnihalumar) Twitter
 - #### [THECYBERINST OSINT challenge](https://courses.thecyberinst.org/courses/osint-challenge)
 - #### [OSINT Framework MindMap](https://osintframework.com)
 - #### [Sourcing game 1](https://sourcing.games/game-1/)
