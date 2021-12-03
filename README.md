@@ -451,7 +451,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 	 
 	 - #### [Violent Python3](https://samsclass.info/124/VP2020.htm)
 	 Note : The following are some links which will help you to begin with python programming to be a professional and the rest relies on Practice and small python   projects.
-
+	- #### [Art Of Packet Crafting with Scapy](https://0xbharath.github.io/art-of-packet-crafting-with-scapy/index.html)
 	- #### [Introduction To Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) [Free Course]
 	- #### [Python Data Science Cheatsheet](https://www.udacity.com/blog/2021/08/python-data-science-cheat-sheet.html)
 	- #### [Python-Projects](https://github.com/topics/python-project)
