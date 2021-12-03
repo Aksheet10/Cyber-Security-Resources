@@ -320,6 +320,7 @@ For providing some amazing resources!
 
 - #### [SirenSecurity.io](https://sirensecurity.io/blog/home/)
 - #### [TheHacker.recipes](https://www.thehacker.recipes/)
+- #### [Python Training](https://www.disruptivelabs.in/training/) - Distruptivelabs
 - #### [Lolbas-project.github.io](https://lolbas-project.github.io/)
 - #### [PWNWiki.io](http://pwnwiki.io/#!index.md)
 - #### [BC-Security Videos](https://www.youtube.com/c/BCSecurity1/videos) - YouTube
@@ -383,6 +384,7 @@ For providing some amazing resources!
 
 - #### [Lolbas-project](https://lolbas-project.github.io/) - Github.io
 - #### [byt3bl33d3r](https://byt3bl33d3r.github.io/) - Github.io
+- #### [0xbharath](https://0xbharath.github.io/art-of-packet-crafting-with-scapy/index.html) Github.io
 - #### [PWNWiki](https://pwnwiki.github.io) - Github.io
 - #### [Wadcoms](https://wadcoms.github.io/) - Github.io
 - #### [0x00-0x00](https://0x00-0x00.github.io/) Github.io
@@ -451,7 +453,10 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 	 
 	 - #### [Violent Python3](https://samsclass.info/124/VP2020.htm)
 	 Note : The following are some links which will help you to begin with python programming to be a professional and the rest relies on Practice and small python   projects.
-	- #### [Art Of Packet Crafting with Scapy](https://0xbharath.github.io/art-of-packet-crafting-with-scapy/index.html)
+	- #### [Python Training](https://www.disruptivelabs.in/training/) - Distruptivelabs
+	- #### [Art Of Packet Crafting with Scapy](https://0xbharath.github.io/art-of-packet-crafting-with-scapy/index.html) - 0xbharath Github.io 
+	- #### [Python Foundations](https://0xbharath.github.io/python-foundations/) - 0xbharath Github.io
+	- #### [Python Network Programming](https://0xbharath.github.io/python-network-programming/index.html) - 0xbharath Github.io
 	- #### [Introduction To Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) [Free Course]
 	- #### [Python Data Science Cheatsheet](https://www.udacity.com/blog/2021/08/python-data-science-cheat-sheet.html)
 	- #### [Python-Projects](https://github.com/topics/python-project)
