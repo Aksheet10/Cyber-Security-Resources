@@ -153,6 +153,7 @@ For providing some amazing resources!
 ## Web-Pentesting
 
 - #### [Web-Services Recon](https://www.thehacker.recipes/web-services/recon) - Thehacker.recipes
+- #### [OTP Bypass Step To Step](https://technicalsurendra.medium.com/otp-bypass-step-to-step-c81f1a6a40f5) - TechnicalSurendre Medium
 - #### [Web-Services Hacking Guides](https://sushant747.gitbooks.io/total-oscp-guide/content/web-services.html) - Sushant747.gitbooks
 - #### [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters) - Nahamsec Github
 	- #### [Resources for Beginner Bug Bounty Hunters - Basics](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/basics.md) - Nahamsec Github
