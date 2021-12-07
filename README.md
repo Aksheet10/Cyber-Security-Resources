@@ -321,6 +321,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [SirenSecurity.io](https://sirensecurity.io/blog/home/)
+- #### [TeachYourselfInfoSec.com](https://teachyourselfinfosec.com/)
 - #### [TheHacker.recipes](https://www.thehacker.recipes/)
 - #### [Python Training](https://www.disruptivelabs.in/training/) - Distruptivelabs
 - #### [Lolbas-project.github.io](https://lolbas-project.github.io/)
