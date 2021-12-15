@@ -387,6 +387,7 @@ For providing some amazing resources!
 
 - #### [Lolbas-project](https://lolbas-project.github.io/) - Github.io
 - #### [Shroudri](https://shroudri.github.io/) - Github.io
+- #### [Aidenpearce369](https://aidenpearce369.github.io/) - Github.io
 - #### [byt3bl33d3r](https://byt3bl33d3r.github.io/) - Github.io
 - #### [0xbharath](https://0xbharath.github.io/art-of-packet-crafting-with-scapy/index.html) Github.io
 - #### [PWNWiki](https://pwnwiki.github.io) - Github.io
@@ -536,7 +537,8 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
    ### Windows and Active Directory Hacking
   
-   - #### [Setting up Active Directory](https://shroudri.github.io/guides/setting-up-active-directory/) - Shroudri.Github.io
+   - #### [Setting up Active Directory](https://shroudri.github.io/guides/setting-up-active-directory/) - Shroudri Github.io
+   - #### [RedTeam Enumeratoin](https://aidenpearce369.github.io/offsec/redteam-enumeration/) - Aidenpearce369 Github.io
    - #### [Red Teaming Resources](https://sirensecurity.io/blog/red-teaming-resources/) - SirenSecurity.io
    - #### [Active Directory Resources](https://github.com/zjja/Cyber-Notes/blob/main/Learning/Active_Directory.md) - Zjja Github
    - #### [Deploy-Deception](https://www.labofapenetrationtester.com/2018/10/deploy-deception.html) - Labofapenetrationtester, Nikhil Mittal
