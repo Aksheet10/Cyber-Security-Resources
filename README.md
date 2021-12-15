@@ -195,6 +195,7 @@ For providing some amazing resources!
 ## Binary-Exploitation
 
 - #### [Pwn College ](https://pwn.college/modules/intro)
+- #### [Binary Exploitation Blogs](https://aidenpearce369.github.io/binexp/) - Aidenpearce369 Github.io
 - #### [ROP Emporium](https://ropemporium.com/) - Learn return-oriented programming through a series of challenges.
 - #### [GuyInATuxedo Nightmare](https://guyinatuxedo.github.io/index.html) - Guyinatuxedo.github
 - #### [PWN Land](https://github.com/D4mianWayne/PwnLand) - D4mianWayne Github
@@ -210,14 +211,16 @@ For providing some amazing resources!
 - #### [Windows Exploit Development - SecuritySift](https://www.securitysift.com/windows-exploit-development-part-1-basics/) - SecuritySift.com
 - #### [Crackmes](https://crackmes.one) - Thanks to [Dasith](https://github.com/dasithsv)
 - #### [Exploit Dev Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Exploit_Dev.md) - Rmusser01 Github
-
+- #### [Exploit Development blog](https://aidenpearce369.github.io/expdev/) - Aidenpearce369 Github.io
 
 #### Thanks to Swanandx for the resources below. His [Website](https://swanandx.github.io/). His [Github](https://bit.ly/3hziKWH)
 
   ### Blogs :-
 
    - #### [PWN challenges Writeups](https://syedfarazabrar.com/)
+   - #### [Binary Exploitation Blogs](https://aidenpearce369.github.io/binexp/) - Aidenpearce369 Github.io
    - #### [Kileak Github Writeups](https://kileak.github.io/)
+   - #### [Exploit Development Blogs](https://aidenpearce369.github.io/expdev/) - Aidenpearce369 Github.io 
    - #### [4mianwayne PWN Writeups](https://d4mianwayne.github.io/)
    - #### [CTF101 Bin-Exp Buffer Overflow](https://ctf101.org/binary-exploitation/buffer-overflow/)
    - #### [Skull Security PWN CTF walkthroughs](https://blog.skullsecurity.org/category/ctfs)
