@@ -689,7 +689,7 @@ Resources for eCPPTv2, OSCP and many more
    - #### [Windows Red Team Cheat Sheet](https://morph3sec.com/Cheat-Sheets/Windows-Red-Team-Cheat-Sheet/)
    - #### [Icel0rd AD Hacking Cheat Sheet](https://www.notion.so/icel0rd/Cheatsheat-e300daf53d1744738d45d59b1fae78ec)
    - #### [WADCOMS Cheat Sheet for AD Environment](https://wadcoms.github.io/)
-   - #### Windows & Active Directory Exploitation Cheat Sheet and Command Reference[](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/) - casvancooten.com
+   - #### [Windows & Active Directory Exploitation Cheat Sheet and Command Reference](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/) - casvancooten.com
 
 - Kerberos Cheat Sheet
 	- #### [TarlogicSecurity Kerberos Attacks Cheat Sheet](https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a)
