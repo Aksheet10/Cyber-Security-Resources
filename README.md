@@ -324,6 +324,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [SirenSecurity.io](https://sirensecurity.io/blog/home/)
+- #### [Code.org](https://code.org)
 - #### [TeachYourselfInfoSec.com](https://teachyourselfinfosec.com/)
 - #### [TheHacker.recipes](https://www.thehacker.recipes/)
 - #### [Python Training](https://www.disruptivelabs.in/training/) - Distruptivelabs
@@ -452,6 +453,7 @@ For providing some amazing resources!
 
 - #### [How To Start Learning Programming](https://www.freecodecamp.org/news/how-to-learn-programming/) - Freecodecamp.org
 - #### [Resources for Beginner Bug Bounty Hunters - Coding](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/coding.md) - Nahamsec Github
+- #### [Learn Computer Science](https://code.org/) - Code.org
 - #### [Programming Tasks (with solutions in all languages)](https://rosettacode.org/wiki/Category:Programming_Tasks) - Rosettacode
 - #### [Offensive Programming with Challenges](https://github.com/Zeyad-Azima/Offensive-Resources#offensive-programming) - Zeyad-Azime Github
  
