@@ -194,6 +194,7 @@ For providing some amazing resources!
 
 ## Binary-Exploitation
 
+- #### [Start Learning Reverse Engineering](https://twitter.com/coder_rc/status/1477137751317180419) - Coder_RC Twitter
 - #### [Pwn College ](https://pwn.college/modules/intro)
 - #### [Binary Exploitation Blogs](https://aidenpearce369.github.io/binexp/) - Aidenpearce369 Github.io
 - #### [ROP Emporium](https://ropemporium.com/) - Learn return-oriented programming through a series of challenges.
