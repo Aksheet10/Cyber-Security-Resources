@@ -213,6 +213,7 @@ For providing some amazing resources!
 - #### [Crackmes](https://crackmes.one) - Thanks to [Dasith](https://github.com/dasithsv)
 - #### [Exploit Dev Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Exploit_Dev.md) - Rmusser01 Github
 - #### [Exploit Development blog](https://aidenpearce369.github.io/expdev/) - Aidenpearce369 Github.io
+- #### [Getting Started with Exploit Development](https://dayzerosec.com/blog/2021/02/02/getting-started.html) - DayZeroSec.com
 
 #### Thanks to Swanandx for the resources below. His [Website](https://swanandx.github.io/). His [Github](https://bit.ly/3hziKWH)
 
