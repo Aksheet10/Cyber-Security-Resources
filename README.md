@@ -326,6 +326,7 @@ For providing some amazing resources!
 ## Amazing Sites
 
 - #### [SirenSecurity.io](https://sirensecurity.io/blog/home/)
+- #### [XssMice and other tweets (Resources)](https://twitter.com/XssMice/status/1480510147482906625?s=20) - Twitter
 - #### [Code.org](https://code.org)
 - #### [TeachYourselfInfoSec.com](https://teachyourselfinfosec.com/)
 - #### [TheHacker.recipes](https://www.thehacker.recipes/)
