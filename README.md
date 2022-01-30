@@ -325,6 +325,7 @@ For providing some amazing resources!
 
 ## Amazing Sites
 
+- #### [KhaoticDev.Net Resources](https://khaoticdev.net/resources/)
 - #### [SirenSecurity.io](https://sirensecurity.io/blog/home/)
 - #### [XssMice and other tweets (Resources)](https://twitter.com/XssMice/status/1480510147482906625?s=20) - Twitter
 - #### [Code.org](https://code.org)
