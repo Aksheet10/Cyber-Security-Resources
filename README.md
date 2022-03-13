@@ -153,6 +153,7 @@ For providing some amazing resources!
 
 ## Web-Pentesting
 
+- #### [Browser to Shell](https://systemweakness.com/give-me-a-browser-ill-give-you-a-shell-de19811defa0) - Systemweakness.com
 - #### [Web-Services Recon](https://www.thehacker.recipes/web-services/recon) - Thehacker.recipes
 - #### [OTP Bypass Step To Step](https://technicalsurendra.medium.com/otp-bypass-step-to-step-c81f1a6a40f5) - TechnicalSurendre Medium
 - #### [Web-Services Hacking Guides](https://sushant747.gitbooks.io/total-oscp-guide/content/web-services.html) - Sushant747.gitbooks
