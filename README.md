@@ -54,6 +54,7 @@ For providing some amazing resources!
 - [Certification Resources](#certification-resources)
      - [OSCP](#oscp)
      - [OSEP](#osep)
+     - [OSED](#osed)
      - [eCPPTv2](#ecpptv2)
      - [eCPTXv2](#ecptxv2)
      - [Security+](#security)
@@ -673,6 +674,8 @@ Resources for eCPPTv2, OSCP and many more
 - #### [Pen300 OSEP Prep](https://github.com/deletehead/pen_300_osep_prep) - Deletehead github
 - #### [Offensive Security Evasion](https://drive.google.com/file/d/1znezUNtghkcFhwfKMZmeyNrtdbwBXRsz/view?usp=sharing) - Joas Antino
 - #### [Awesome-Red-Team-Operations](https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations)
+### OSED 
+- #### [Nop-Tech Notes for OSED](https://github.com/nop-tech/OSED) - nop-tech Github
 ### eCPPTv2
 - #### [Great eCPPTv2 External Resources](https://community.ine.com/t/great-ptp-ecpptv2-external-resources/618)
 - #### [IamKsNoob Mind Maps and Notes](https://github.com/IamKsNoob/PTPv5)
