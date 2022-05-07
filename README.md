@@ -195,6 +195,7 @@ For providing some amazing resources!
 
 ## Binary-Exploitation
 
+- #### [Nop-Tech Notes for OSED](https://github.com/nop-tech/OSED) - nop-tech Github
 - #### [Start Learning Reverse Engineering](https://twitter.com/coder_rc/status/1477137751317180419) - Coder_RC Twitter
 - #### [Pwn College ](https://pwn.college/modules/intro)
 - #### [Binary Exploitation Blogs](https://aidenpearce369.github.io/binexp/) - Aidenpearce369 Github.io
