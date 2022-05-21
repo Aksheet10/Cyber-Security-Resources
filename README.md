@@ -17,6 +17,7 @@ Thanks to
 - [Bornunique911](https://github.com/Bornunique911)
 - [Kiwids](https://kiwids.me)
 - [MamaMouse](https://keybase.io/msmouse/)
+- [GhoulBoii](https://github.com/ghoulboii)
 
 For providing some amazing resources!
 
@@ -252,7 +253,7 @@ For providing some amazing resources!
 - #### [Privilege Escalation](https://www.youtube.com/watch?v=VpNaPAh93vE&list=PLDrNMcTNhhYrBNZ_FdtMq-gLFQeUZFzWV) - Conda YouTube
 
 - ### Linux
-	- #### [Linnux Privilege Escalation Resources](https://sirensecurity.io/blog/linux-privilege-escalation-resources/) - SirenSecurity.io
+	- #### [Linux Privilege Escalation Resources](https://sirensecurity.io/blog/linux-privilege-escalation-resources/) - SirenSecurity.io
      - #### Conda YouTube
      	- #### [OSCP - Linux Privilege Escalation Methodology](https://www.youtube.com/watch?v=VpNaPAh93vE)
 	- #### [Linux Privilege Escalation - Docker Group](https://www.youtube.com/watch?v=pRBj2dm4CDU)
