@@ -305,6 +305,7 @@ For providing some amazing resources!
 - #### [Bypass AV Dynamics](https://blog.sevagas.com/IMG/pdf/BypassAVDynamics.pdf) -  blog.Sevages
 - #### [Decon27 C# Workshop](https://github.com/mvelazc0/defcon27_csharp_workshop) - Mvelazc0 Github
 - #### [Weaponising C# Fundamentals](https://github.com/fozavci/WeaponisingCSharp-Fundamentals/) - Fozavci
+- #### [Getting Started with Malware Development](https://twitter.com/C5pider/status/1555256779553906694) - C5pider Twitter
 
 - #### [Implane Development and Defense Evasion Part 1 - File Basics](https://lsteelo.medium.com/implant-development-and-defense-evasion-part-1-file-basics-532eb258b6bf) Lsteelo Medium
 - #### [GhostSec420 Bypass AV Dynamics](https://github.com/ghostsec420/SCPA/blob/main/BypassAVDynamics.pdf)
