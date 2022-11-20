@@ -386,6 +386,7 @@ For providing some amazing resources!
 ### Gitbook
 
 - #### [OSCP Useful Links](https://backdoorshell.gitbooks.io/oscp-useful-links/content/) - BackDoorShell.gitbooks
+- #### [Strange-1](https://strange-1.gitbook.io/notes/welcome/intro) Gitbook
 - #### [The Read Team Handbook](https://kwcsec.gitbook.io/the-red-team-handbook/) - KwcSec.gitbook
 - #### [Hack All The Things](https://akenofu.gitbook.io/hackallthethings/) - Akenofu.gitbook
 - #### [DarkSidious](https://hunter2.gitbook.io/darthsidious/) - Hunter2.gitbook
@@ -550,6 +551,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
    ### Windows and Active Directory Hacking
    
+   - #### [Strange-1 AD](https://strange-1.gitbook.io/notes/welcome/intro) Cheatsheet and theory
    - #### [Building an Active Directory domain and hacking it](https://github.com/chryzsh/DarthSidious) - Chryzsh Github
    - #### [Setting up Active Directory](https://shroudri.github.io/guides/setting-up-active-directory/) - Shroudri Github.io
    - #### [RedTeam Enumeratoin](https://aidenpearce369.github.io/offsec/redteam-enumeration/) - Aidenpearce369 Github.io
