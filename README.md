@@ -551,6 +551,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 
    ### Windows and Active Directory Hacking
    
+   - #### [Windows Persistance Techniques](https://drive.google.com/file/d/1gijNQ5yiCVonj450hFgwpsth7fZmvNPK/view)
    - #### [Strange-1 AD](https://strange-1.gitbook.io/notes/welcome/intro) Cheatsheet and theory
    - #### [Building an Active Directory domain and hacking it](https://github.com/chryzsh/DarthSidious) - Chryzsh Github
    - #### [Setting up Active Directory](https://shroudri.github.io/guides/setting-up-active-directory/) - Shroudri Github.io
