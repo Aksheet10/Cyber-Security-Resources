@@ -485,6 +485,7 @@ Note : Some are taken from [EbookFoundation](https://github.com/EbookFoundation/
 	
 	- #### [The Modern JavaScript Tutorial](https://javascript.info/) - Javascript.info
 	- #### [SoloLearn JavaScript course](https://www.sololearn.com/learning/1024) - Sololearn
+	- #### [Playcode JS Tutorials](https://playcode.io/)
 
 	### C++
 	 
